@@ -105,7 +105,7 @@ class ActionProvideGuide(Action):
 
         if actions in ACTIONS_DATA:
             video_link = ACTIONS_DATA[actions]["link"]
-            message = f"Để {ACTIONS_DATA[actions]['name']}, bạn vui lòng xem video hướng dẫn tại đây: {video_link}"
+            message = f"Để {ACTIONS_DATA[actions]['name']}, bạn vui lòng xem video hướng dẫn tại đây: {video_link}."
             dispatcher.utter_message(text=message)
         else:
             dispatcher.utter_message(text="Xin lỗi, mình chưa hiểu ý của bạn.")
