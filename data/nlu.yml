@@ -1,6 +1,28 @@
 version: "3.1"
 
 nlu:
+- intent: greeting
+  examples: |
+    - anh ơi
+    - bạn ơi
+    - em ơi
+    - ê
+    - xin chào
+    - cho tôi hỏi
+    - cho em hỏi
+    - cho mình hỏi
+    - cho bên anh hỏi
+    - này
+    - chào
+    - xin chào
+    - hi
+    - hello
+
+- intent: bye
+  examples: |
+    - tạm biệt
+    - hẹn gặp lại
+
 - intent: ask_actions
   examples: |
     - cách [tải phần mềm](action)

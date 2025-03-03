@@ -1,8 +1,17 @@
 version: "3.1"
 
 rules:
-
 - rule: provide_guide
   steps:
   - intent: ask_actions
   - action: action_provide_guide
+
+- rule: rep_greeting
+  steps:
+  - intent: greeting
+  - action: utter_ChaoHoi
+
+- rule: rep_bye
+  steps:
+  - intent: bying
+  - action: utter_Bye

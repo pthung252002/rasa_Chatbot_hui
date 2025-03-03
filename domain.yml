@@ -3,6 +3,14 @@ version: "3.1"
 intents:
   - ask_actions
 
+responses:
+  utter_ChaoHoi:
+    - text: "Chào bạn!"
+    - text: "Chào bạn, bạn cần giúp gì ?"
+
+  utter_Bye:
+    - text: "Tạm biệt bạn nhé!"
+
 entities:
   - action
 
