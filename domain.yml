@@ -4,7 +4,18 @@ intents:
   - ask_actions
 
 entities:
-  - actions
+  - action
+
+slots:
+  actions:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: action
+
+actions:
+  - action_provide_guide
 
 session_config:
   session_expiration_time: 60

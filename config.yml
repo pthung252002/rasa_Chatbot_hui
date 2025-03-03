@@ -1,50 +1,42 @@
-# The config recipe.
-# https://rasa.com/docs/rasa/model-configuration/
-recipe: default.v1
-
-# The assistant project unique identifier
-# This default value must be replaced with a unique assistant name within your deployment
-assistant_id: placeholder_default
-
-# Configuration for Rasa NLU.
-# https://rasa.com/docs/rasa/nlu/components/
-language: en
+language: vi
 
 pipeline:
-# # No configuration for the NLU pipeline was provided. The following default pipeline was used to train your model.
-# # If you'd like to customize it, uncomment and adjust the pipeline.
-# # See https://rasa.com/docs/rasa/tuning-your-model for more information.
-#   - name: WhitespaceTokenizer
-#   - name: RegexFeaturizer
-#   - name: LexicalSyntacticFeaturizer
-#   - name: CountVectorsFeaturizer
-#   - name: CountVectorsFeaturizer
-#     analyzer: char_wb
-#     min_ngram: 1
-#     max_ngram: 4
-#   - name: DIETClassifier
-#     epochs: 100
-#     constrain_similarities: true
-#   - name: EntitySynonymMapper
-#   - name: ResponseSelector
-#     epochs: 100
-#     constrain_similarities: true
-#   - name: FallbackClassifier
-#     threshold: 0.3
-#     ambiguity_threshold: 0.1
+- name: "WhitespaceTokenizer"  # Tokenizer để tách từ
+- name: "LanguageModelFeaturizer"  # Dùng PhoBERT để hiểu tiếng Việt tốt hơn
+  model_name: "bert"
+  model_weights: "vinai/phobert-base"
+  cache_dir: "/content/drive/MyDrive/CacheRASA"
+- name: "RegexFeaturizer"  # Nhận diện mẫu regex trong câu
+- name: "LexicalSyntacticFeaturizer"  # Trích xuất đặc trưng ngữ pháp
+- name: "CountVectorsFeaturizer"  # Vector hóa từ
+- name: "CountVectorsFeaturizer"  # Vector hóa ký tự (ngram)
+  analyzer: "char_wb"
+  min_ngram: 1
+  max_ngram: 4
+- name: "RegexEntityExtractor"  # Trích xuất entity dựa trên regex
+  case_sensitive: False  # Không phân biệt hoa thường
+  use_lookup_tables: True  # Sử dụng bảng tra cứu từ
+- name: "DIETClassifier"  # Nhận diện intent & entity
+  epochs: 100
+  learning_rate: 0.0005
+  tensorboard_log_directory: "./tb_logs"
+  checkpoint_model: true
+  evaluate_every_number_of_epochs: 5
+  drop_rate: 0.4
+  weight_sparsity: 0.5
+- name: "EntitySynonymMapper"  # Xử lý từ đồng nghĩa
+- name: "ResponseSelector"  # Chọn phản hồi phù hợp
+  epochs: 50
+- name: "FallbackClassifier"  # Xử lý khi chatbot không chắc chắn
+  threshold: 0.3
+  ambiguity_threshold: 0.1
 
-# Configuration for Rasa Core.
-# https://rasa.com/docs/rasa/core/policies/
 policies:
-# # No configuration for policies was provided. The following default policies were used to train your model.
-# # If you'd like to customize them, uncomment and adjust the policies.
-# # See https://rasa.com/docs/rasa/policies for more information.
-#   - name: MemoizationPolicy
-#   - name: RulePolicy
-#   - name: UnexpecTEDIntentPolicy
-#     max_history: 5
-#     epochs: 100
-#   - name: TEDPolicy
-#     max_history: 5
-#     epochs: 100
-#     constrain_similarities: true
+- name: "MemoizationPolicy"
+- name: "RulePolicy"
+- name: "TEDPolicy"
+  max_history: 5
+  epochs: 50
+  checkpoint_model: true
+  evaluate_every_number_of_epochs: 10
+  tensorboard_log_directory: "./tb_logs"

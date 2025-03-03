@@ -3,17 +3,19 @@ version: "3.1"
 nlu:
 - intent: ask_actions
   examples: |
-    - cách [tải phần mềm](actions)
-    - [tải phần mềm](actions) như thế nào
-    - làm sao để [tải phần mềm](actions)
-    - [tải phần mềm](actions) ở đâu
-    - không biết [tải phần mềm](actions)
-    - vào đâu để [tải phần mềm](actions)
-    - hướng dẫn [tải phần mềm](actions)
+    - cách [tải phần mềm](action)
+    - [tải phần mềm](action) như thế nào
+    - làm sao để [tải phần mềm](action)
+    - [tải phần mềm](action) ở đâu
+    - không biết [tải phần mềm](action)
+    - vào đâu để [tải phần mềm](action)
+    - hướng dẫn [tải phần mềm](action)
+    - chỉ cách [tải phần mềm](action)
 
-- lookup: actions
+- lookup: action
   examples: |
     - tải phần mềm
+    - sử dụng phần mềm
     - hốt hụi
     - tạo dây hụi
     - đóng hụi
@@ -31,10 +33,10 @@ nlu:
     - mở dây hụi mãn trở lại đang hoạt động
     - mãn dây hụi
     - đóng lại hụi cũ để tính cân bằng hụi chính xác
-    - tất toán hụi chết
     - xóa kỳ hốt
     - xóa kỳ đóng bị lỗi
     - xác nhận đóng tất cả hụi
+    - cân bằng âm dương
 
 - synonym: phần mềm
   examples: |
@@ -49,3 +51,7 @@ nlu:
 - synonym: xóa
   examples: |
     - hủy
+
+- synonym: thêm
+  examples: |
+    - tạo
