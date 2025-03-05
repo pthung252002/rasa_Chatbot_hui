@@ -13,5 +13,5 @@ rules:
 
 - rule: rep_bye
   steps:
-  - intent: bying
+  - intent: bye
   - action: utter_Bye
