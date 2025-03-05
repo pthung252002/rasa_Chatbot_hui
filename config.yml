@@ -14,10 +14,10 @@ pipeline:
   min_ngram: 1
   max_ngram: 4
 - name: "RegexEntityExtractor"  # Trích xuất entity dựa trên regex
-  case_sensitive: False  # Không phân biệt hoa thường
-  use_lookup_tables: True  # Sử dụng bảng tra cứu từ
+  case_sensitive: false  # Không phân biệt hoa thường
+  use_lookup_tables: true  # Sử dụng bảng tra cứu từ
 - name: "DIETClassifier"  # Nhận diện intent & entity
-  epochs: 200
+  epochs: 100
   learning_rate: 0.0005
   tensorboard_log_directory: "./tb_logs"
   checkpoint_model: true
@@ -40,3 +40,4 @@ policies:
   checkpoint_model: true
   evaluate_every_number_of_epochs: 10
   tensorboard_log_directory: "./tb_logs"
+assistant_id: 20250303-041938-current-forest

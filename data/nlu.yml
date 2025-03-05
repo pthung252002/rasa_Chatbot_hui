@@ -253,6 +253,12 @@ nlu:
   examples: |
     - down
     - download
+    - truy cập
+    - vào
+    - đến
+    - vô
+    - zô
+    - tới
 
 - synonym: xóa
   examples: |
@@ -265,3 +271,34 @@ nlu:
 - synonym: bill
   examples: |
     - hóa đơn
+
+- synonym: sử dụng
+  examples: |
+    - dùng
+    - xài
+    - sài
+
+- synonym: in tất cả bill đóng trong ngày
+  examples: |
+    - in tất cả bill đóng
+    - in tất cả bill
+    - in tất cả bill trong ngày
+
+- synonym: gom hụi viên bị trùng
+  examples: |
+    - gom hụi viên trùng
+    - gộp hụi viên bị trùng
+    - xóa hụi viên bị trùng
+    - gộp hụi viên trùng
+    - xóa hụi viên trùng
+
+- synonym: mở dây hụi mãn trở lại đang hoạt động
+  examples: |
+    - mở dây hụi mãn
+    - mở lại dây hụi mãn
+    - mở lại dây hụi bị mãn
+    - mở dây hụi bị mãn trở lại đang hoạt động
+    - chỉnh dây hụi mãn
+    - chỉnh lại dây hụi mãn
+    - chỉnh lại dây hụi bị mãn
+    - chỉnh dây hụi bị mãn trở lại đang hoạt động
