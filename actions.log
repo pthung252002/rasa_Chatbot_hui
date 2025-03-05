@@ -2,6 +2,12 @@
   Base: DeclarativeMeta = declarative_base()
 /usr/local/lib/python3.9/site-packages/rasa/shared/utils/validation.py:134: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
   import pkg_resources
+/usr/local/lib/python3.9/site-packages/pkg_resources/__init__.py:3117: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/usr/local/lib/python3.9/site-packages/pkg_resources/__init__.py:3117: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('google.logging')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
 /usr/local/lib/python3.9/site-packages/pkg_resources/__init__.py:3117: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
 Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
   declare_namespace(pkg)
@@ -13,7 +19,7 @@ Implementing implicit namespace packages (as specified in PEP 420) is preferred 
   declare_namespace(pkg)
 /usr/local/lib/python3.9/site-packages/sanic_cors/extension.py:39: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
   SANIC_VERSION = LooseVersion(sanic_version)
-2025-03-03 04:22:44 INFO     rasa_sdk.endpoint  - Starting action endpoint server...
-2025-03-03 04:22:44 INFO     rasa_sdk.executor  - Registered function for 'action_provide_guide'.
-2025-03-03 04:22:45 INFO     rasa_sdk.endpoint  - Starting plugins...
-2025-03-03 04:22:45 INFO     rasa_sdk.endpoint  - Action endpoint is up and running on http://0.0.0.0:5055
+2025-03-05 01:40:21 INFO     rasa_sdk.endpoint  - Starting action endpoint server...
+2025-03-05 01:40:21 INFO     rasa_sdk.executor  - Registered function for 'action_provide_guide'.
+2025-03-05 01:40:21 INFO     rasa_sdk.endpoint  - Starting plugins...
+2025-03-05 01:40:21 INFO     rasa_sdk.endpoint  - Action endpoint is up and running on http://0.0.0.0:5055
