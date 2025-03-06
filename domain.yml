@@ -2,6 +2,7 @@ version: "3.1"
 
 intents:
   - ask_actions
+  - ask_extend_duration
   - greeting
   - bye
 
@@ -26,6 +27,7 @@ slots:
 
 actions:
   - action_provide_guide
+  - action_answer_duration
 
 session_config:
   session_expiration_time: 60

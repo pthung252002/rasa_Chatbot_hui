@@ -218,6 +218,39 @@ nlu:
     - hướng dẫn [cân bằng âm dương](action)
     - chỉ cách [cân bằng âm dương](action)
 
+- intent: ask_extend_duration
+  examples: |
+    - em ơi chị muốn gia hạn 1 tuần
+    - cho em gia hạn thêm 1 tuần
+    - chị muốn gia hạn thêm 1 tuần
+    - gia hạn thêm 1 tuần
+    - gia hạn thêm 1 tuần được không
+    - có thể gia hạn thêm 1 tuần không
+    - có gói gia hạn 1 tuần không em
+    - bên anh có cho gia hạn 1 tuần không
+    - em có cho gia hạn 1 tuần không
+    - chị muốn gia hạn 1 tuần
+    - em ơi chị muốn gia hạn 2 tuần
+    - cho em gia hạn thêm 2 tuần
+    - chị muốn gia hạn thêm 2 tuần
+    - gia hạn thêm 2 tuần
+    - gia hạn thêm 2 tuần được không
+    - có thể gia hạn thêm 2 tuần không
+    - có gói gia hạn 2 tuần không em
+    - bên anh có cho gia hạn 2 tuần không
+    - em có cho gia hạn 2 tuần không
+    - chị muốn gia hạn 2 tuần
+    - em ơi chị muốn gia hạn 1 tháng
+    - cho em gia hạn thêm 1 tháng
+    - chị muốn gia hạn thêm 1 tháng
+    - gia hạn thêm 1 tháng
+    - gia hạn thêm 1 tháng được không
+    - có thể gia hạn thêm 1 tháng không
+    - có gói gia hạn 1 tháng không em
+    - bên anh có cho gia hạn 1 tháng không
+    - em có cho gia hạn 1 tháng không
+    - chị muốn gia hạn 1 tháng
+
 - lookup: action
   examples: |
     - tải phần mềm
@@ -244,53 +277,192 @@ nlu:
     - xác nhận đóng tất cả hụi
     - cân bằng âm dương
 
-- synonym: phần mềm
+- synonym: tải phần mềm
   examples: |
-    - app
-    - ứng dụng
+    - tải
+    - down phần mềm
+    - download phần mềm
+    - truy cập phần mềm
+    - vào phần mềm
+    - đến phần mềm
+    - vô phần mềm
+    - zô phần mềm
+    - tới phần mềm
+    - down app
+    - download app
+    - truy cập app
+    - vào app
+    - đến app
+    - vô app
+    - zô app
+    - tới app
+    - down ứng dụng
+    - download ứng dụng
+    - truy cập ứng dụng
+    - vào ứng dụng
+    - đến ứng dụng
+    - vô ứng dụng
+    - zô ứng dụng
+    - tới ứng dụng
+    - down trang web
+    - download trang web
+    - truy cập trang web
+    - vào trang web
+    - đến trang web
+    - vô trang web
+    - zô trang web
+    - tới trang web
+    - down web
+    - download web
+    - truy cập web
+    - vào web
+    - đến web
+    - vô web
+    - zô web
+    - tới web
+    - down phần mềm hụi
+    - download phần mềm hụi
+    - truy cập phần mềm hụi
+    - vào phần mềm hụi
+    - đến phần mềm hụi
+    - vô phần mềm hụi
+    - zô phần mềm hụi
+    - tới phần mềm hụi
+    - down app hụi
+    - download app hụi
+    - truy cập app hụi
+    - vào app hụi
+    - đến app hụi
+    - vô app hụi
+    - zô app hụi
+    - tới app hụi
+    - down ứng dụng hụi
+    - download ứng dụng hụi
+    - truy cập ứng dụng hụi
+    - vào ứng dụng hụi
+    - đến ứng dụng hụi
+    - vô ứng dụng hụi
+    - zô ứng dụng hụi
+    - tới ứng dụng hụi
+    - down trang web hụi
+    - download trang web hụi
+    - truy cập trang web hụi
+    - vào trang web hụi
+    - đến trang web hụi
+    - vô trang web hụi
+    - zô trang web hụi
+    - tới trang web hụi
+    - down web hụi
+    - download web hụi
+    - truy cập web hụi
+    - vào web hụi
+    - đến web hụi
+    - vô web hụi
+    - zô web hụi
+    - tới web hụi
 
-- synonym: tải
-  examples: |
-    - down
-    - download
-    - truy cập
-    - vào
-    - đến
-    - vô
-    - zô
-    - tới
-
-- synonym: xóa
-  examples: |
-    - hủy
-
-- synonym: thêm
-  examples: |
-    - tạo
-
-- synonym: bill
-  examples: |
-    - hóa đơn
-
-- synonym: sử dụng
+- synonym: sử dụng phần mềm
   examples: |
     - dùng
     - xài
     - sài
+    - dùng phần mềm
+    - xài phần mềm
+    - sài phần mềm
+
+- synonym: hốt hụi
+  examples: |
+    - bốc hụi
+    - bóc hụi
+
+- synonym: tạo dây hụi
+  examples: |
+    - thêm dây hụi
+    - tạo hụi
+    - tạo dây hụi
+    - tạo thêm dây hụi
+    - thêm hụi
+    - thêm dây hụi mới
+    - tạo hụi mới
+    - tạo dây hụi mới
+    - tạo thêm dây hụi mới
+    - thêm hụi mới
+    - mở dây hụi
+    - mở hụi
+    - mở thêm dây hụi
+    - mở thêm hụi
+    - mở thêm dây hụi mới
+    - mở hụi mới
+    - mở dây hụi mới
+    - mở thêm dây hụi mới
+    - mở hụi mới
 
 - synonym: in tất cả bill đóng trong ngày
   examples: |
+    - in tất cả hóa đơn đóng trong ngày
+    - in hết bill đóng trong ngày
+    - in hết hóa đơn đóng trong ngày
     - in tất cả bill đóng
     - in tất cả bill
     - in tất cả bill trong ngày
 
+- synonym: xóa hốt hụi
+  examples: |
+    - hủy hốt hụi
+    - bỏ hốt hụi
+
 - synonym: gom hụi viên bị trùng
   examples: |
-    - gom hụi viên trùng
+    - gom hụi những viên bị trùng
     - gộp hụi viên bị trùng
-    - xóa hụi viên bị trùng
-    - gộp hụi viên trùng
-    - xóa hụi viên trùng
+    - gọp hụi viên bị trùng
+    - gộp những hụi viên bị trùng
+    - gọp những hụi viên bị trùng
+
+- synonym: thêm số phần hụi trong dây hụi
+  examples: |
+    - thêm số phần hụi
+    - thêm phần hụi trong dây hụi
+    - thêm phần hụi
+
+- synonym: giảm số phần hụi trong dây hụi
+  examples: |
+    - bớt số phần hụi trong dây hụi
+    - xóa số phần hụi trong dây hụi
+    - bỏ số phần hụi trong dây hụi
+    - giảm bớt số phần hụi trong dây hụi
+    - xóa bớt số phần hụi trong dây hụi
+    - bỏ bớt số phần hụi trong dây hụi
+    - bớt số phần hụi
+    - xóa số phần hụi
+    - bỏ số phần hụi
+    - giảm bớt số phần hụi
+    - xóa bớt số phần hụi
+    - bỏ bớt số phần hụi
+
+- synonym: hốt hụi nhiều người cùng kỳ
+  examples: |
+    - bốc hụi nhiều người cùng kỳ
+    - bóc hụi nhiều người cùng kỳ
+
+- synonym: tạo dây hụi góp
+  examples: |
+    - tạo hụi góp
+    - thêm dây hụi góp
+    - mở dây hụi góp
+    - thêm hụi góp
+    - mở hụi góp
+    - tạo hụi góp mới
+    - thêm dây hụi góp mới
+    - mở dây hụi góp mới
+    - thêm hụi góp mới
+    - mở hụi góp mới
+    - tạo thêm hụi góp
+    - mở thêm dây hụi góp
+    - mở thêm hụi góp
+    - tạo thêm hụi góp mới
+    - mở thêm dây hụi góp mới
+    - mở thêm hụi góp mới
 
 - synonym: mở dây hụi mãn trở lại đang hoạt động
   examples: |
@@ -302,3 +474,29 @@ nlu:
     - chỉnh lại dây hụi mãn
     - chỉnh lại dây hụi bị mãn
     - chỉnh dây hụi bị mãn trở lại đang hoạt động
+
+- synonym: xóa kỳ hốt
+  examples: |
+    - giảm kỳ hốt
+    - bớt kỳ hốt
+    - đóng kỳ hốt
+    - giảm bớt kỳ hốt
+    - đóng bớt kỳ hốt
+    - xóa bớt kỳ hốt
+
+- synonym: xóa kỳ đóng bị lỗi
+  examples: |
+    - đóng kỳ đóng bị lỗi
+    - xóa kỳ đóng lỗi
+    - đóng kỳ đóng lỗi
+    - đóng bớt kỳ đóng bị lỗi
+    - đóng bớt kỳ đóng lỗi
+
+- synonym: cân bằng âm dương
+  examples: |
+    - cân bằng âm dương của hụi viên
+    - cân bằng âm dương cho hụi viên
+
+- regex: ở đâu
+  examples: |
+    - (nằm ở đâu|ở chỗ nào|chỗ nào)
