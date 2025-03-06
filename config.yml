@@ -5,7 +5,7 @@ pipeline:
 - name: "LanguageModelFeaturizer"  # Dùng PhoBERT để hiểu tiếng Việt tốt hơn
   model_name: "bert"
   model_weights: "vinai/phobert-base"
-  cache_dir: "/content/drive/MyDrive/CacheRASA"
+  cache_dir: "./Cache"
 - name: "RegexFeaturizer"  # Nhận diện mẫu regex trong câu
 - name: "LexicalSyntacticFeaturizer"  # Trích xuất đặc trưng ngữ pháp
 - name: "CountVectorsFeaturizer"  # Vector hóa từ
