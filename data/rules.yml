@@ -6,6 +6,11 @@ rules:
   - intent: ask_actions
   - action: action_provide_guide
 
+- rule: answer_duration
+  steps:
+  - intent: ask_extend_duration
+  - action: action_answer_duration
+
 - rule: rep_greeting
   steps:
   - intent: greeting
