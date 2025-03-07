@@ -17,7 +17,7 @@ pipeline:
   case_sensitive: false  # Không phân biệt hoa thường
   use_lookup_tables: true  # Sử dụng bảng tra cứu từ
 - name: "DIETClassifier"  # Nhận diện intent & entity
-  epochs: 100
+  epochs: 120
   learning_rate: 0.0005
   tensorboard_log_directory: "./tb_logs"
   checkpoint_model: true

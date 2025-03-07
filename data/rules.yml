@@ -14,9 +14,17 @@ rules:
 - rule: rep_greeting
   steps:
   - intent: greeting
+  - action: action_reset_slots
   - action: utter_ChaoHoi
 
-- rule: rep_bye
+- rule: rep bye
   steps:
   - intent: bye
-  - action: utter_Bye
+  - action: action_reset_slots
+  - action:
+
+- rule: fall_back_intent
+  steps:
+  - intent: nlu_fallback
+  - action: action_handle_unknown_question
+

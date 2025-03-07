@@ -1001,3 +1001,8 @@ nlu:
 - regex: ở đâu
   examples: |
     - nằm ở đâu|ở chỗ nào|chỗ nào
+
+- regex: cách
+  examples: |
+    - cách để
+    - cách thức

@@ -2,6 +2,7 @@ from typing import Any, Text, Dict, List
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 from rasa_sdk.events import SlotSet
+from rasa_sdk.events import UserUtteranceReverted
 
 # Link các hướng dẫn
 ACTIONS_DATA = {
@@ -214,9 +215,31 @@ ACTIONS_DATA = {
     }
 }
 
+
+# Hàm để reset slot sau khi cang cấp các hướng dẫn
+class ActionResetSlots(Action):
+    def name(self):
+        return "action_reset_slots"
+
+    def run(self, dispatcher, tracker, domain):
+        return [SlotSet("actions", None)]
+
+
+
+# Hàm trả lời các câu hỏi ngoại lệ
+class ActionHandleUnknownQuestion(Action):
+    def name(self):
+        return "action_handle_unknown_question"
+
+    def run(self, dispatcher, tracker, domain):
+        user_message = tracker.latest_message.get("text", "")
+        response = f"Xin lỗi, tôi chưa hiểu câu hỏi '{user_message}'. Bạn có thể hỏi lại theo cách khác không?"
+        dispatcher.utter_message(text=response)
+        return [UserUtteranceReverted()]  # Tránh làm ảnh hưởng đến flow hội thoại
+
+
+
 # Hàm chung để cung cấp hướng dẫn và link video hướng dẫn
-
-
 class ActionProvideGuide(Action):
     def name(self) -> Text:
         return "action_provide_guide"
@@ -253,14 +276,16 @@ class ActionAnswerDuration(Action):
         return "action_answer_duration"
 
     def run(self, dispatcher: CollectingDispatcher, tracker: Tracker, domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-        message = (f"Xin lỗi Anh/Chị, bên em không có gói gia hạn này.<br>"
-                   f"Hiện tại bên em chỉ có các gói gia hạn:"
+        message = (
+                   f"Hiện tại bên em có các gói gia hạn sau:"
+                   f"<hr>"
                    f"<list>"
-                   f"<li>3 tháng</li>"
-                   f"<li>1 năm</li>"
-                   f"<li>Vĩnh viễn</li>"
+                   f"<li>1.500.00đ / 3 THÁNG</li>"
+                   f"<li>3.900.000đ / NĂM</li>"
+                   f"<li>10.000.000đ / VĨNH VIỄN</li>"
                    f"</list><br>"
-                   f"Nếu Anh/Chị có nhu cầu sử dụng tiếp thì Anh/Chị có thể lựa chọn các gói gia hạn trên.")
+                   f"Nếu Anh/Chị có nhu cầu sử dụng hay gian hạn thì Anh/Chị có thể lựa chọn các gói gia hạn trên."
+        )
         dispatcher.utter_message(text=message)
 
         return []
