@@ -33,17 +33,13 @@ nlu:
     - vào đâu để [tải phần mềm](action)
     - hướng dẫn [tải phần mềm](action)
     - chỉ cách [tải phần mềm](action)
-    - cách để [tải phần mềm](action)
     - [tải phần mềm](action) như thế nào vậy
     - làm sao [tải phần mềm](action)
     - [tải phần mềm](action) ở đâu thế
     - không biết cách [tải phần mềm](action)
-    - không biết cách để [tải phần mềm](action)
     - vào đâu [tải phần mềm](action)
     - hướng dẫn cách [tải phần mềm](action)
-    - hướng dẫn cách để [tải phần mềm](action)
     - hướng dẫn để [tải phần mềm](action)
-    - chỉ cách để [tải phần mềm](action)
     - chỉ cách làm sao [tải phần mềm](action)
     - chỉ cách làm sao để [tải phần mềm](action)
     - cách [sử dụng phần mềm](action)
@@ -54,17 +50,13 @@ nlu:
     - vào đâu để [sử dụng phần mềm](action)
     - hướng dẫn [sử dụng phần mềm](action)
     - chỉ cách [sử dụng phần mềm](action)
-    - cách để [sử dụng phần mềm](action)
     - [sử dụng phần mềm](action) như thế nào vậy
     - làm sao [sử dụng phần mềm](action)
     - [sử dụng phần mềm](action) ở đâu thế
     - không biết cách [sử dụng phần mềm](action)
-    - không biết cách để [sử dụng phần mềm](action)
     - vào đâu [sử dụng phần mềm](action)
     - hướng dẫn cách [sử dụng phần mềm](action)
-    - hướng dẫn cách để [sử dụng phần mềm](action)
     - hướng dẫn để [sử dụng phần mềm](action)
-    - chỉ cách để [sử dụng phần mềm](action)
     - chỉ cách làm sao [sử dụng phần mềm](action)
     - chỉ cách làm sao để [sử dụng phần mềm](action)
     - cách [hốt hụi](action)
@@ -75,17 +67,13 @@ nlu:
     - vào đâu để [hốt hụi](action)
     - hướng dẫn [hốt hụi](action)
     - chỉ cách [hốt hụi](action)
-    - cách để [hốt hụi](action)
     - [hốt hụi](action) như thế nào vậy
     - làm sao [hốt hụi](action)
     - [hốt hụi](action) ở đâu thế
     - không biết cách [hốt hụi](action)
-    - không biết cách để [hốt hụi](action)
     - vào đâu [hốt hụi](action)
     - hướng dẫn cách [hốt hụi](action)
-    - hướng dẫn cách để [hốt hụi](action)
     - hướng dẫn để [hốt hụi](action)
-    - chỉ cách để [hốt hụi](action)
     - chỉ cách làm sao [hốt hụi](action)
     - chỉ cách làm sao để [hốt hụi](action)
     - cách [tạo dây hụi](action)
@@ -96,17 +84,13 @@ nlu:
     - vào đâu để [tạo dây hụi](action)
     - hướng dẫn [tạo dây hụi](action)
     - chỉ cách [tạo dây hụi](action)
-    - cách để [tạo dây hụi](action)
     - [tạo dây hụi](action) như thế nào vậy
     - làm sao [tạo dây hụi](action)
     - [tạo dây hụi](action) ở đâu thế
     - không biết cách [tạo dây hụi](action)
-    - không biết cách để [tạo dây hụi](action)
     - vào đâu [tạo dây hụi](action)
     - hướng dẫn cách [tạo dây hụi](action)
-    - hướng dẫn cách để [tạo dây hụi](action)
     - hướng dẫn để [tạo dây hụi](action)
-    - chỉ cách để [tạo dây hụi](action)
     - chỉ cách làm sao [tạo dây hụi](action)
     - chỉ cách làm sao để [tạo dây hụi](action)
     - cách [đóng hụi](action)
@@ -117,17 +101,13 @@ nlu:
     - vào đâu để [đóng hụi](action)
     - hướng dẫn [đóng hụi](action)
     - chỉ cách [đóng hụi](action)
-    - cách để [đóng hụi](action)
     - [đóng hụi](action) như thế nào vậy
     - làm sao [đóng hụi](action)
     - [đóng hụi](action) ở đâu thế
     - không biết cách [đóng hụi](action)
-    - không biết cách để [đóng hụi](action)
     - vào đâu [đóng hụi](action)
     - hướng dẫn cách [đóng hụi](action)
-    - hướng dẫn cách để [đóng hụi](action)
     - hướng dẫn để [đóng hụi](action)
-    - chỉ cách để [đóng hụi](action)
     - chỉ cách làm sao [đóng hụi](action)
     - chỉ cách làm sao để [đóng hụi](action)
     - cách [tất toán hụi chết](action)
@@ -138,17 +118,13 @@ nlu:
     - vào đâu để [tất toán hụi chết](action)
     - hướng dẫn [tất toán hụi chết](action)
     - chỉ cách [tất toán hụi chết](action)
-    - cách để [tất toán hụi chết](action)
     - [tất toán hụi chết](action) như thế nào vậy
     - làm sao [tất toán hụi chết](action)
     - [tất toán hụi chết](action) ở đâu thế
     - không biết cách [tất toán hụi chết](action)
-    - không biết cách để [tất toán hụi chết](action)
     - vào đâu [tất toán hụi chết](action)
     - hướng dẫn cách [tất toán hụi chết](action)
-    - hướng dẫn cách để [tất toán hụi chết](action)
     - hướng dẫn để [tất toán hụi chết](action)
-    - chỉ cách để [tất toán hụi chết](action)
     - chỉ cách làm sao [tất toán hụi chết](action)
     - chỉ cách làm sao để [tất toán hụi chết](action)
     - cách [in tất cả bill đóng trong ngày](action)
@@ -159,17 +135,13 @@ nlu:
     - vào đâu để [in tất cả bill đóng trong ngày](action)
     - hướng dẫn [in tất cả bill đóng trong ngày](action)
     - chỉ cách [in tất cả bill đóng trong ngày](action)
-    - cách để [in tất cả bill đóng trong ngày](action)
     - [in tất cả bill đóng trong ngày](action) như thế nào vậy
     - làm sao [in tất cả bill đóng trong ngày](action)
     - [in tất cả bill đóng trong ngày](action) ở đâu thế
     - không biết cách [in tất cả bill đóng trong ngày](action)
-    - không biết cách để [in tất cả bill đóng trong ngày](action)
     - vào đâu [in tất cả bill đóng trong ngày](action)
     - hướng dẫn cách [in tất cả bill đóng trong ngày](action)
-    - hướng dẫn cách để [in tất cả bill đóng trong ngày](action)
     - hướng dẫn để [in tất cả bill đóng trong ngày](action)
-    - chỉ cách để [in tất cả bill đóng trong ngày](action)
     - chỉ cách làm sao [in tất cả bill đóng trong ngày](action)
     - chỉ cách làm sao để [in tất cả bill đóng trong ngày](action)
     - cách [xóa hốt hụi](action)
@@ -180,17 +152,13 @@ nlu:
     - vào đâu để [xóa hốt hụi](action)
     - hướng dẫn [xóa hốt hụi](action)
     - chỉ cách [xóa hốt hụi](action)
-    - cách để [xóa hốt hụi](action)
     - [xóa hốt hụi](action) như thế nào vậy
     - làm sao [xóa hốt hụi](action)
     - [xóa hốt hụi](action) ở đâu thế
     - không biết cách [xóa hốt hụi](action)
-    - không biết cách để [xóa hốt hụi](action)
     - vào đâu [xóa hốt hụi](action)
     - hướng dẫn cách [xóa hốt hụi](action)
-    - hướng dẫn cách để [xóa hốt hụi](action)
     - hướng dẫn để [xóa hốt hụi](action)
-    - chỉ cách để [xóa hốt hụi](action)
     - chỉ cách làm sao [xóa hốt hụi](action)
     - chỉ cách làm sao để [xóa hốt hụi](action)
     - cách [gom hụi viên bị trùng](action)
@@ -201,17 +169,13 @@ nlu:
     - vào đâu để [gom hụi viên bị trùng](action)
     - hướng dẫn [gom hụi viên bị trùng](action)
     - chỉ cách [gom hụi viên bị trùng](action)
-    - cách để [gom hụi viên bị trùng](action)
     - [gom hụi viên bị trùng](action) như thế nào vậy
     - làm sao [gom hụi viên bị trùng](action)
     - [gom hụi viên bị trùng](action) ở đâu thế
     - không biết cách [gom hụi viên bị trùng](action)
-    - không biết cách để [gom hụi viên bị trùng](action)
     - vào đâu [gom hụi viên bị trùng](action)
     - hướng dẫn cách [gom hụi viên bị trùng](action)
-    - hướng dẫn cách để [gom hụi viên bị trùng](action)
     - hướng dẫn để [gom hụi viên bị trùng](action)
-    - chỉ cách để [gom hụi viên bị trùng](action)
     - chỉ cách làm sao [gom hụi viên bị trùng](action)
     - chỉ cách làm sao để [gom hụi viên bị trùng](action)
     - cách [thêm số phần hụi trong dây hụi](action)
@@ -222,17 +186,13 @@ nlu:
     - vào đâu để [thêm số phần hụi trong dây hụi](action)
     - hướng dẫn [thêm số phần hụi trong dây hụi](action)
     - chỉ cách [thêm số phần hụi trong dây hụi](action)
-    - cách để [thêm số phần hụi trong dây hụi](action)
     - [thêm số phần hụi trong dây hụi](action) như thế nào vậy
     - làm sao [thêm số phần hụi trong dây hụi](action)
     - [thêm số phần hụi trong dây hụi](action) ở đâu thế
     - không biết cách [thêm số phần hụi trong dây hụi](action)
-    - không biết cách để [thêm số phần hụi trong dây hụi](action)
     - vào đâu [thêm số phần hụi trong dây hụi](action)
     - hướng dẫn cách [thêm số phần hụi trong dây hụi](action)
-    - hướng dẫn cách để [thêm số phần hụi trong dây hụi](action)
     - hướng dẫn để [thêm số phần hụi trong dây hụi](action)
-    - chỉ cách để [thêm số phần hụi trong dây hụi](action)
     - chỉ cách làm sao [thêm số phần hụi trong dây hụi](action)
     - chỉ cách làm sao để [thêm số phần hụi trong dây hụi](action)
     - cách [giảm số phần hụi trong dây hụi](action)
@@ -243,17 +203,13 @@ nlu:
     - vào đâu để [giảm số phần hụi trong dây hụi](action)
     - hướng dẫn [giảm số phần hụi trong dây hụi](action)
     - chỉ cách [giảm số phần hụi trong dây hụi](action)
-    - cách để [giảm số phần hụi trong dây hụi](action)
     - [giảm số phần hụi trong dây hụi](action) như thế nào vậy
     - làm sao [giảm số phần hụi trong dây hụi](action)
     - [giảm số phần hụi trong dây hụi](action) ở đâu thế
     - không biết cách [giảm số phần hụi trong dây hụi](action)
-    - không biết cách để [giảm số phần hụi trong dây hụi](action)
     - vào đâu [giảm số phần hụi trong dây hụi](action)
     - hướng dẫn cách [giảm số phần hụi trong dây hụi](action)
-    - hướng dẫn cách để [giảm số phần hụi trong dây hụi](action)
     - hướng dẫn để [giảm số phần hụi trong dây hụi](action)
-    - chỉ cách để [giảm số phần hụi trong dây hụi](action)
     - chỉ cách làm sao [giảm số phần hụi trong dây hụi](action)
     - chỉ cách làm sao để [giảm số phần hụi trong dây hụi](action)
     - cách [thay đổi hụi viên trong dây hụi](action)
@@ -264,17 +220,13 @@ nlu:
     - vào đâu để [thay đổi hụi viên trong dây hụi](action)
     - hướng dẫn [thay đổi hụi viên trong dây hụi](action)
     - chỉ cách [thay đổi hụi viên trong dây hụi](action)
-    - cách để [thay đổi hụi viên trong dây hụi](action)
     - [thay đổi hụi viên trong dây hụi](action) như thế nào vậy
     - làm sao [thay đổi hụi viên trong dây hụi](action)
     - [thay đổi hụi viên trong dây hụi](action) ở đâu thế
     - không biết cách [thay đổi hụi viên trong dây hụi](action)
-    - không biết cách để [thay đổi hụi viên trong dây hụi](action)
     - vào đâu [thay đổi hụi viên trong dây hụi](action)
     - hướng dẫn cách [thay đổi hụi viên trong dây hụi](action)
-    - hướng dẫn cách để [thay đổi hụi viên trong dây hụi](action)
     - hướng dẫn để [thay đổi hụi viên trong dây hụi](action)
-    - chỉ cách để [thay đổi hụi viên trong dây hụi](action)
     - chỉ cách làm sao [thay đổi hụi viên trong dây hụi](action)
     - chỉ cách làm sao để [thay đổi hụi viên trong dây hụi](action)
     - cách [hốt hụi nhiều người cùng kỳ](action)
@@ -285,17 +237,13 @@ nlu:
     - vào đâu để [hốt hụi nhiều người cùng kỳ](action)
     - hướng dẫn [hốt hụi nhiều người cùng kỳ](action)
     - chỉ cách [hốt hụi nhiều người cùng kỳ](action)
-    - cách để [hốt hụi nhiều người cùng kỳ](action)
     - [hốt hụi nhiều người cùng kỳ](action) như thế nào vậy
     - làm sao [hốt hụi nhiều người cùng kỳ](action)
     - [hốt hụi nhiều người cùng kỳ](action) ở đâu thế
     - không biết cách [hốt hụi nhiều người cùng kỳ](action)
-    - không biết cách để [hốt hụi nhiều người cùng kỳ](action)
     - vào đâu [hốt hụi nhiều người cùng kỳ](action)
     - hướng dẫn cách [hốt hụi nhiều người cùng kỳ](action)
-    - hướng dẫn cách để [hốt hụi nhiều người cùng kỳ](action)
     - hướng dẫn để [hốt hụi nhiều người cùng kỳ](action)
-    - chỉ cách để [hốt hụi nhiều người cùng kỳ](action)
     - chỉ cách làm sao [hốt hụi nhiều người cùng kỳ](action)
     - chỉ cách làm sao để [hốt hụi nhiều người cùng kỳ](action)
     - cách [xóa tất toán hụi chết](action)
@@ -306,17 +254,13 @@ nlu:
     - vào đâu để [xóa tất toán hụi chết](action)
     - hướng dẫn [xóa tất toán hụi chết](action)
     - chỉ cách [xóa tất toán hụi chết](action)
-    - cách để [xóa tất toán hụi chết](action)
     - [xóa tất toán hụi chết](action) như thế nào vậy
     - làm sao [xóa tất toán hụi chết](action)
     - [xóa tất toán hụi chết](action) ở đâu thế
     - không biết cách [xóa tất toán hụi chết](action)
-    - không biết cách để [xóa tất toán hụi chết](action)
     - vào đâu [xóa tất toán hụi chết](action)
     - hướng dẫn cách [xóa tất toán hụi chết](action)
-    - hướng dẫn cách để [xóa tất toán hụi chết](action)
     - hướng dẫn để [xóa tất toán hụi chết](action)
-    - chỉ cách để [xóa tất toán hụi chết](action)
     - chỉ cách làm sao [xóa tất toán hụi chết](action)
     - chỉ cách làm sao để [xóa tất toán hụi chết](action)
     - cách [tất toán hụi sống](action)
@@ -327,17 +271,13 @@ nlu:
     - vào đâu để [tất toán hụi sống](action)
     - hướng dẫn [tất toán hụi sống](action)
     - chỉ cách [tất toán hụi sống](action)
-    - cách để [tất toán hụi sống](action)
     - [tất toán hụi sống](action) như thế nào vậy
     - làm sao [tất toán hụi sống](action)
     - [tất toán hụi sống](action) ở đâu thế
     - không biết cách [tất toán hụi sống](action)
-    - không biết cách để [tất toán hụi sống](action)
     - vào đâu [tất toán hụi sống](action)
     - hướng dẫn cách [tất toán hụi sống](action)
-    - hướng dẫn cách để [tất toán hụi sống](action)
     - hướng dẫn để [tất toán hụi sống](action)
-    - chỉ cách để [tất toán hụi sống](action)
     - chỉ cách làm sao [tất toán hụi sống](action)
     - chỉ cách làm sao để [tất toán hụi sống](action)
     - cách [tạo dây hụi góp](action)
@@ -348,17 +288,13 @@ nlu:
     - vào đâu để [tạo dây hụi góp](action)
     - hướng dẫn [tạo dây hụi góp](action)
     - chỉ cách [tạo dây hụi góp](action)
-    - cách để [tạo dây hụi góp](action)
     - [tạo dây hụi góp](action) như thế nào vậy
     - làm sao [tạo dây hụi góp](action)
     - [tạo dây hụi góp](action) ở đâu thế
     - không biết cách [tạo dây hụi góp](action)
-    - không biết cách để [tạo dây hụi góp](action)
     - vào đâu [tạo dây hụi góp](action)
     - hướng dẫn cách [tạo dây hụi góp](action)
-    - hướng dẫn cách để [tạo dây hụi góp](action)
     - hướng dẫn để [tạo dây hụi góp](action)
-    - chỉ cách để [tạo dây hụi góp](action)
     - chỉ cách làm sao [tạo dây hụi góp](action)
     - chỉ cách làm sao để [tạo dây hụi góp](action)
     - cách [mở dây hụi mãn trở lại đang hoạt động](action)
@@ -369,17 +305,13 @@ nlu:
     - vào đâu để [mở dây hụi mãn trở lại đang hoạt động](action)
     - hướng dẫn [mở dây hụi mãn trở lại đang hoạt động](action)
     - chỉ cách [mở dây hụi mãn trở lại đang hoạt động](action)
-    - cách để [mở dây hụi mãn trở lại đang hoạt động](action)
     - [mở dây hụi mãn trở lại đang hoạt động](action) như thế nào vậy
     - làm sao [mở dây hụi mãn trở lại đang hoạt động](action)
     - [mở dây hụi mãn trở lại đang hoạt động](action) ở đâu thế
     - không biết cách [mở dây hụi mãn trở lại đang hoạt động](action)
-    - không biết cách để [mở dây hụi mãn trở lại đang hoạt động](action)
     - vào đâu [mở dây hụi mãn trở lại đang hoạt động](action)
     - hướng dẫn cách [mở dây hụi mãn trở lại đang hoạt động](action)
-    - hướng dẫn cách để [mở dây hụi mãn trở lại đang hoạt động](action)
     - hướng dẫn để [mở dây hụi mãn trở lại đang hoạt động](action)
-    - chỉ cách để [mở dây hụi mãn trở lại đang hoạt động](action)
     - chỉ cách làm sao [mở dây hụi mãn trở lại đang hoạt động](action)
     - chỉ cách làm sao để [mở dây hụi mãn trở lại đang hoạt động](action)
     - cách [mãn dây hụi](action)
@@ -390,17 +322,13 @@ nlu:
     - vào đâu để [mãn dây hụi](action)
     - hướng dẫn [mãn dây hụi](action)
     - chỉ cách [mãn dây hụi](action)
-    - cách để [mãn dây hụi](action)
     - [mãn dây hụi](action) như thế nào vậy
     - làm sao [mãn dây hụi](action)
     - [mãn dây hụi](action) ở đâu thế
     - không biết cách [mãn dây hụi](action)
-    - không biết cách để [mãn dây hụi](action)
     - vào đâu [mãn dây hụi](action)
     - hướng dẫn cách [mãn dây hụi](action)
-    - hướng dẫn cách để [mãn dây hụi](action)
     - hướng dẫn để [mãn dây hụi](action)
-    - chỉ cách để [mãn dây hụi](action)
     - chỉ cách làm sao [mãn dây hụi](action)
     - chỉ cách làm sao để [mãn dây hụi](action)
     - cách [đóng lại hụi cũ để tính cân bằng hụi chính xác](action)
@@ -411,17 +339,13 @@ nlu:
     - vào đâu để [đóng lại hụi cũ để tính cân bằng hụi chính xác](action)
     - hướng dẫn [đóng lại hụi cũ để tính cân bằng hụi chính xác](action)
     - chỉ cách [đóng lại hụi cũ để tính cân bằng hụi chính xác](action)
-    - cách để [đóng lại hụi cũ để tính cân bằng hụi chính xác](action)
     - [đóng lại hụi cũ để tính cân bằng hụi chính xác](action) như thế nào vậy
     - làm sao [đóng lại hụi cũ để tính cân bằng hụi chính xác](action)
     - [đóng lại hụi cũ để tính cân bằng hụi chính xác](action) ở đâu thế
     - không biết cách [đóng lại hụi cũ để tính cân bằng hụi chính xác](action)
-    - không biết cách để [đóng lại hụi cũ để tính cân bằng hụi chính xác](action)
     - vào đâu [đóng lại hụi cũ để tính cân bằng hụi chính xác](action)
     - hướng dẫn cách [đóng lại hụi cũ để tính cân bằng hụi chính xác](action)
-    - hướng dẫn cách để [đóng lại hụi cũ để tính cân bằng hụi chính xác](action)
     - hướng dẫn để [đóng lại hụi cũ để tính cân bằng hụi chính xác](action)
-    - chỉ cách để [đóng lại hụi cũ để tính cân bằng hụi chính xác](action)
     - chỉ cách làm sao [đóng lại hụi cũ để tính cân bằng hụi chính xác](action)
     - chỉ cách làm sao để [đóng lại hụi cũ để tính cân bằng hụi chính xác](action)
     - cách [xóa kỳ hốt](action)
@@ -432,17 +356,13 @@ nlu:
     - vào đâu để [xóa kỳ hốt](action)
     - hướng dẫn [xóa kỳ hốt](action)
     - chỉ cách [xóa kỳ hốt](action)
-    - cách để [xóa kỳ hốt](action)
     - [xóa kỳ hốt](action) như thế nào vậy
     - làm sao [xóa kỳ hốt](action)
     - [xóa kỳ hốt](action) ở đâu thế
     - không biết cách [xóa kỳ hốt](action)
-    - không biết cách để [xóa kỳ hốt](action)
     - vào đâu [xóa kỳ hốt](action)
     - hướng dẫn cách [xóa kỳ hốt](action)
-    - hướng dẫn cách để [xóa kỳ hốt](action)
     - hướng dẫn để [xóa kỳ hốt](action)
-    - chỉ cách để [xóa kỳ hốt](action)
     - chỉ cách làm sao [xóa kỳ hốt](action)
     - chỉ cách làm sao để [xóa kỳ hốt](action)
     - cách [xóa kỳ đóng bị lỗi](action)
@@ -453,17 +373,13 @@ nlu:
     - vào đâu để [xóa kỳ đóng bị lỗi](action)
     - hướng dẫn [xóa kỳ đóng bị lỗi](action)
     - chỉ cách [xóa kỳ đóng bị lỗi](action)
-    - cách để [xóa kỳ đóng bị lỗi](action)
     - [xóa kỳ đóng bị lỗi](action) như thế nào vậy
     - làm sao [xóa kỳ đóng bị lỗi](action)
     - [xóa kỳ đóng bị lỗi](action) ở đâu thế
     - không biết cách [xóa kỳ đóng bị lỗi](action)
-    - không biết cách để [xóa kỳ đóng bị lỗi](action)
     - vào đâu [xóa kỳ đóng bị lỗi](action)
     - hướng dẫn cách [xóa kỳ đóng bị lỗi](action)
-    - hướng dẫn cách để [xóa kỳ đóng bị lỗi](action)
     - hướng dẫn để [xóa kỳ đóng bị lỗi](action)
-    - chỉ cách để [xóa kỳ đóng bị lỗi](action)
     - chỉ cách làm sao [xóa kỳ đóng bị lỗi](action)
     - chỉ cách làm sao để [xóa kỳ đóng bị lỗi](action)
     - cách [xác nhận đóng tất cả hụi](action)
@@ -474,17 +390,13 @@ nlu:
     - vào đâu để [xác nhận đóng tất cả hụi](action)
     - hướng dẫn [xác nhận đóng tất cả hụi](action)
     - chỉ cách [xác nhận đóng tất cả hụi](action)
-    - cách để [xác nhận đóng tất cả hụi](action)
     - [xác nhận đóng tất cả hụi](action) như thế nào vậy
     - làm sao [xác nhận đóng tất cả hụi](action)
     - [xác nhận đóng tất cả hụi](action) ở đâu thế
     - không biết cách [xác nhận đóng tất cả hụi](action)
-    - không biết cách để [xác nhận đóng tất cả hụi](action)
     - vào đâu [xác nhận đóng tất cả hụi](action)
     - hướng dẫn cách [xác nhận đóng tất cả hụi](action)
-    - hướng dẫn cách để [xác nhận đóng tất cả hụi](action)
     - hướng dẫn để [xác nhận đóng tất cả hụi](action)
-    - chỉ cách để [xác nhận đóng tất cả hụi](action)
     - chỉ cách làm sao [xác nhận đóng tất cả hụi](action)
     - chỉ cách làm sao để [xác nhận đóng tất cả hụi](action)
     - cách [cân bằng âm dương](action)
@@ -495,22 +407,36 @@ nlu:
     - vào đâu để [cân bằng âm dương](action)
     - hướng dẫn [cân bằng âm dương](action)
     - chỉ cách [cân bằng âm dương](action)
-    - cách để [cân bằng âm dương](action)
     - [cân bằng âm dương](action) như thế nào vậy
     - làm sao [cân bằng âm dương](action)
     - [cân bằng âm dương](action) ở đâu thế
     - không biết cách [cân bằng âm dương](action)
-    - không biết cách để [cân bằng âm dương](action)
     - vào đâu [cân bằng âm dương](action)
     - hướng dẫn cách [cân bằng âm dương](action)
-    - hướng dẫn cách để [cân bằng âm dương](action)
     - hướng dẫn để [cân bằng âm dương](action)
-    - chỉ cách để [cân bằng âm dương](action)
     - chỉ cách làm sao [cân bằng âm dương](action)
     - chỉ cách làm sao để [cân bằng âm dương](action)
 
 - intent: ask_extend_duration
   examples: |
+    - gian hạn
+    - gia hạn thêm
+    - mua thêm
+    - mua thêm 1 tuần
+    - mua thêm 2 tuần
+    - mua thêm 1 tháng
+    - có thể mua thêm 1 tuần không em
+    - có thể mua thêm 1 tuần được không em
+    - cho chị mua thêm 1 tuần đi em
+    - anh mua thêm 1 tuần được không em
+    - có thể mua thêm 2 tuần không em
+    - có thể mua thêm 2 tuần được không em
+    - cho chị mua thêm 2 tuần đi em
+    - anh mua thêm 2 tuần được không em
+    - có thể mua thêm 1 tháng không em
+    - có thể mua thêm 1 tháng được không em
+    - cho chị mua thêm 1 tháng đi em
+    - anh mua thêm 1 tháng được không em
     - em ơi chị muốn gia hạn 1 tuần
     - cho em gia hạn thêm 1 tuần
     - chị muốn gia hạn thêm 1 tuần
@@ -541,6 +467,16 @@ nlu:
     - bên anh có cho gia hạn 1 tháng không
     - em có cho gia hạn 1 tháng không
     - chị muốn gia hạn 1 tháng
+    - em ơi chị muốn gia hạn 2 tháng
+    - cho em gia hạn thêm 2 tháng
+    - chị muốn gia hạn thêm 2 tháng
+    - gia hạn thêm 2 tháng
+    - gia hạn thêm 2 tháng được không
+    - có thể gia hạn thêm 2 tháng không
+    - có gói gia hạn 2 tháng không em
+    - bên anh có cho gia hạn 2 tháng không
+    - em có cho gia hạn 2 tháng không
+    - chị muốn gia hạn 2 tháng
 
 - lookup: action
   examples: |
@@ -765,6 +701,7 @@ nlu:
 - synonym: sử dụng phần mềm
   examples: |
     - dùng
+    - sử dụng 
     - xài
     - sài
     - dùng phần mềm
@@ -827,15 +764,82 @@ nlu:
     - dùng ứng dụng hụi
     - xài ứng dụng hụi
     - sài ứng dụng hụi
+    - sử dụng phần mềm quản lý hụi
+    - sử dụng phần mềm quản lý hụi
+    - sử dụng phần mềm quản lý hụi
+    - sử dụng phần mềm quản lí hụi
+    - sử dụng phần mềm quản lí hụi
+    - sử dụng phần mềm quản lí hụi
+    - sử dụng phần mềm hụi
+    - sử dụng phần mềm hụi
+    - sử dụng phần mềm hụi
+    - sử dụng app
+    - sử dụng app
+    - sử dụng app
+    - sử dụng app quản lý hụi
+    - sử dụng app quản lý hụi
+    - sử dụng app quản lý hụi
+    - sử dụng app quản lí hụi
+    - sử dụng app quản lí hụi
+    - sử dụng app quản lí hụi
+    - sử dụng app hụi
+    - sử dụng app hụi
+    - sử dụng app hụi
+    - sử dụng web
+    - sử dụng web
+    - sử dụng web
+    - sử dụng web quản lý hụi
+    - sử dụng web quản lý hụi
+    - sử dụng web quản lý hụi
+    - sử dụng web quản lí hụi
+    - sử dụng web quản lí hụi
+    - sử dụng web quản lí hụi
+    - sử dụng web hụi
+    - sử dụng web hụi
+    - sử dụng web hụi
+    - sử dụng trang web
+    - sử dụng trang web
+    - sử dụng trang web
+    - sử dụng trang web quản lý hụi
+    - sử dụng trang web quản lý hụi
+    - sử dụng trang web quản lý hụi
+    - sử dụng trang web quản lí hụi
+    - sử dụng trang web quản lí hụi
+    - sử dụng trang web quản lí hụi
+    - sử dụng trang web hụi
+    - sử dụng trang web hụi
+    - sử dụng trang web hụi
+    - sử dụng ứng dụng
+    - sử dụng ứng dụng
+    - sử dụng ứng dụng
+    - sử dụng ứng dụng quản lý hụi
+    - sử dụng ứng dụng quản lý hụi
+    - sử dụng ứng dụng quản lý hụi
+    - sử dụng ứng dụng quản lí hụi
+    - sử dụng ứng dụng quản lí hụi
+    - sử dụng ứng dụng quản lí hụi
+    - sử dụng ứng dụng hụi
+    - sử dụng ứng dụng hụi
+    - sử dụng ứng dụng hụi
 
 - synonym: hốt hụi
   examples: |
     - hốt
+    - hóc
+    - hốc
+    - hút
+    - húc
     - bốc
     - bóc
+    - gom
+    - gôm
+    - khui
     - bốc hụi
     - bóc hụi
     - lấy hụi
+    - gom hụi
+    - gôm hụi
+    - khui hụi
 
 - synonym: tạo dây hụi
   examples: |
@@ -861,14 +865,44 @@ nlu:
 
 - synonym: đóng hụi
   examples: |
+    - góp hụi
+    - trả hụi
+    - thanh toán hụi
+    - tính hụi
     - đóng tiền hụi
     - góp tiền hụi
     - trả tiền hụi
     - thanh toán tiền hụi
     - tính tiền hụi
+    - đóng tiền
+    - góp tiền
+    - trả tiền
+    - thanh toán tiền
+    - tính tiền
+
+- synonym: tất toán hụi chết
+  examples: |
+    - tất toán dây hụi chết
+    - tất toán tiền hụi chết
+    - tất toán tiền của hụi chết
+    - tất toán tiền dây hụi chết
+    - tất toán tiền của dây hụi chết
+    - tất toán dây hụi đã chết
+    - tất toán tiền hụi đã  chết
+    - tất toán tiền của hụi đã chết
+    - tất toán tiền dây hụi đã chết
+    - tất toán tiền của dây hụi đã chết
 
 - synonym: in tất cả bill đóng trong ngày
   examples: |
+    - in bill
+    - in hóa đơn
+    - in bill đóng
+    - in hóa đơn đóng
+    - in bill đóng tiền
+    - in hóa đơn đóng tiền
+    - in bill đóng tiền hụi
+    - in hóa đơn đóng tiền hụi
     - in tất cả hóa đơn đóng trong ngày
     - in hết bill đóng trong ngày
     - in hết hóa đơn đóng trong ngày
@@ -881,6 +915,10 @@ nlu:
     - in hóa đơn đóng trong ngày
     - in hết bill trong ngày
     - in hết hóa đơn trong ngày
+    - in bill đóng tiền trong ngày
+    - in hóa đơn đóng tiền trong ngày
+    - in bill đóng tiền hụi trong ngày
+    - in hóa đơn đóng tiền hụi trong ngày
 
 - synonym: xóa hốt hụi
   examples: |
@@ -900,6 +938,246 @@ nlu:
     - bỏ lược hốt hụi
     - hủy lược hốt
     - bỏ lược hốt
+    - hủy hốt tiền hụi
+    - bỏ hốt tiền hụi
+    - hủy tiền hốt
+    - bỏ tiền hốt
+    - hủy lần hốt tiền hụi
+    - bỏ lần hốt tiền hụi
+    - hủy lần hốt tiền
+    - bỏ lần hốt tiền
+    - hủy lượt hốt tiền hụi
+    - bỏ lượt hốt tiền hụi
+    - hủy lượt hốt tiền
+    - bỏ lượt hốt tiền
+    - hủy lược hốt tiền hụi
+    - bỏ lược hốt tiền hụi
+    - hủy lược hốt tiền
+    - bỏ lược hốt tiền
+    - hủy hót hụi
+    - bỏ hót hụi
+    - hủy hót
+    - bỏ hót
+    - hủy lần hót hụi
+    - bỏ lần hót hụi
+    - hủy lần hót
+    - bỏ lần hót
+    - hủy lượt hót hụi
+    - bỏ lượt hót hụi
+    - hủy lượt hót
+    - bỏ lượt hót
+    - hủy lược hót hụi
+    - bỏ lược hót hụi
+    - hủy lược hót
+    - bỏ lược hót
+    - hủy hót tiền hụi
+    - bỏ hót tiền hụi
+    - hủy tiền hót
+    - bỏ tiền hót
+    - hủy lần hót tiền hụi
+    - bỏ lần hót tiền hụi
+    - hủy lần hót tiền
+    - bỏ lần hót tiền
+    - hủy lượt hót tiền hụi
+    - bỏ lượt hót tiền hụi
+    - hủy lượt hót tiền
+    - bỏ lượt hót tiền
+    - hủy lược hót tiền hụi
+    - bỏ lược hót tiền hụi
+    - hủy lược hót tiền
+    - bỏ lược hót tiền
+    - hủy bốc hụi
+    - bỏ bốc hụi
+    - hủy bốc
+    - bỏ bốc
+    - hủy lần bốc hụi
+    - bỏ lần bốc hụi
+    - hủy lần bốc
+    - bỏ lần bốc
+    - hủy lượt bốc hụi
+    - bỏ lượt bốc hụi
+    - hủy lượt bốc
+    - bỏ lượt bốc
+    - hủy lược bốc hụi
+    - bỏ lược bốc hụi
+    - hủy lược bốc
+    - bỏ lược bốc
+    - hủy bốc tiền hụi
+    - bỏ bốc tiền hụi
+    - hủy tiền bốc
+    - bỏ tiền bốc
+    - hủy lần bốc tiền hụi
+    - bỏ lần bốc tiền hụi
+    - hủy lần bốc tiền
+    - bỏ lần bốc tiền
+    - hủy lượt bốc tiền hụi
+    - bỏ lượt bốc tiền hụi
+    - hủy lượt bốc tiền
+    - bỏ lượt bốc tiền
+    - hủy lược bốc tiền hụi
+    - bỏ lược bốc tiền hụi
+    - hủy lược bốc tiền
+    - bỏ lược bốc tiền
+    - hủy bóc hụi
+    - bỏ bóc hụi
+    - hủy bóc
+    - bỏ bóc
+    - hủy lần bóc hụi
+    - bỏ lần bóc hụi
+    - hủy lần bóc
+    - bỏ lần bóc
+    - hủy lượt bóc hụi
+    - bỏ lượt bóc hụi
+    - hủy lượt bóc
+    - bỏ lượt bóc
+    - hủy lược bóc hụi
+    - bỏ lược bóc hụi
+    - hủy lược bóc
+    - bỏ lược bóc
+    - hủy bóc tiền hụi
+    - bỏ bóc tiền hụi
+    - hủy tiền bóc
+    - bỏ tiền bóc
+    - hủy lần bóc tiền hụi
+    - bỏ lần bóc tiền hụi
+    - hủy lần bóc tiền
+    - bỏ lần bóc tiền
+    - hủy lượt bóc tiền hụi
+    - bỏ lượt bóc tiền hụi
+    - hủy lượt bóc tiền
+    - bỏ lượt bóc tiền
+    - hủy lược bóc tiền hụi
+    - bỏ lược bóc tiền hụi
+    - hủy lược bóc tiền
+    - bỏ lược bóc tiền
+    - hủy lấy hụi
+    - bỏ lấy hụi
+    - hủy lấy
+    - bỏ lấy
+    - hủy lần lấy hụi
+    - bỏ lần lấy hụi
+    - hủy lần lấy
+    - bỏ lần lấy
+    - hủy lượt lấy hụi
+    - bỏ lượt lấy hụi
+    - hủy lượt lấy
+    - bỏ lượt lấy
+    - hủy lược lấy hụi
+    - bỏ lược lấy hụi
+    - hủy lược lấy
+    - bỏ lược lấy
+    - hủy lấy tiền hụi
+    - bỏ lấy tiền hụi
+    - hủy tiền lấy
+    - bỏ tiền lấy
+    - hủy lần lấy tiền hụi
+    - bỏ lần lấy tiền hụi
+    - hủy lần lấy tiền
+    - bỏ lần lấy tiền
+    - hủy lượt lấy tiền hụi
+    - bỏ lượt lấy tiền hụi
+    - hủy lượt lấy tiền
+    - bỏ lượt lấy tiền
+    - hủy lược lấy tiền hụi
+    - bỏ lược lấy tiền hụi
+    - hủy lược lấy tiền
+    - bỏ lược lấy tiền
+    - hủy gom hụi
+    - bỏ gom hụi
+    - hủy gom
+    - bỏ gom
+    - hủy lần gom hụi
+    - bỏ lần gom hụi
+    - hủy lần gom
+    - bỏ lần gom
+    - hủy lượt gom hụi
+    - bỏ lượt gom hụi
+    - hủy lượt gom
+    - bỏ lượt gom
+    - hủy lược gom hụi
+    - bỏ lược gom hụi
+    - hủy lược gom
+    - bỏ lược gom
+    - hủy gom tiền hụi
+    - bỏ gom tiền hụi
+    - hủy tiền gom
+    - bỏ tiền gom
+    - hủy lần gom tiền hụi
+    - bỏ lần gom tiền hụi
+    - hủy lần gom tiền
+    - bỏ lần gom tiền
+    - hủy lượt gom tiền hụi
+    - bỏ lượt gom tiền hụi
+    - hủy lượt gom tiền
+    - bỏ lượt gom tiền
+    - hủy lược gom tiền hụi
+    - bỏ lược gom tiền hụi
+    - hủy lược gom tiền
+    - bỏ lược gom tiền
+    - hủy gôm hụi
+    - bỏ gôm hụi
+    - hủy gôm
+    - bỏ gôm
+    - hủy lần gôm hụi
+    - bỏ lần gôm hụi
+    - hủy lần gôm
+    - bỏ lần gôm
+    - hủy lượt gôm hụi
+    - bỏ lượt gôm hụi
+    - hủy lượt gôm
+    - bỏ lượt gôm
+    - hủy lược gôm hụi
+    - bỏ lược gôm hụi
+    - hủy lược gôm
+    - bỏ lược gôm
+    - hủy gôm tiền hụi
+    - bỏ gôm tiền hụi
+    - hủy tiền gôm
+    - bỏ tiền gôm
+    - hủy lần gôm tiền hụi
+    - bỏ lần gôm tiền hụi
+    - hủy lần gôm tiền
+    - bỏ lần gôm tiền
+    - hủy lượt gôm tiền hụi
+    - bỏ lượt gôm tiền hụi
+    - hủy lượt gôm tiền
+    - bỏ lượt gôm tiền
+    - hủy lược gôm tiền hụi
+    - bỏ lược gôm tiền hụi
+    - hủy lược gôm tiền
+    - bỏ lược gôm tiền
+    - hủy khui hụi
+    - bỏ khui hụi
+    - hủy khui
+    - bỏ khui
+    - hủy lần khui hụi
+    - bỏ lần khui hụi
+    - hủy lần khui
+    - bỏ lần khui
+    - hủy lượt khui hụi
+    - bỏ lượt khui hụi
+    - hủy lượt khui
+    - bỏ lượt khui
+    - hủy lược khui hụi
+    - bỏ lược khui hụi
+    - hủy lược khui
+    - bỏ lược khui
+    - hủy khui tiền hụi
+    - bỏ khui tiền hụi
+    - hủy tiền khui
+    - bỏ tiền khui
+    - hủy lần khui tiền hụi
+    - bỏ lần khui tiền hụi
+    - hủy lần khui tiền
+    - bỏ lần khui tiền
+    - hủy lượt khui tiền hụi
+    - bỏ lượt khui tiền hụi
+    - hủy lượt khui tiền
+    - bỏ lượt khui tiền
+    - hủy lược khui tiền hụi
+    - bỏ lược khui tiền hụi
+    - hủy lược khui tiền
+    - bỏ lược khui tiền
 
 - synonym: gom hụi viên bị trùng
   examples: |
@@ -908,6 +1186,501 @@ nlu:
     - gọp hụi viên bị trùng
     - gộp những hụi viên bị trùng
     - gọp những hụi viên bị trùng
+    - gom hụi những viên bị trùng lại
+    - gộp hụi viên bị trùng lại
+    - gọp hụi viên bị trùng lại
+    - gộp những hụi viên bị trùng lại
+    - gọp những hụi viên bị trùng lại
+    - gom hụi những viên bị trùng lại thành một
+    - gộp hụi viên bị trùng lại thành một
+    - gọp hụi viên bị trùng lại thành một
+    - gộp những hụi viên bị trùng lại thành một
+    - gọp những hụi viên bị trùng lại thành một
+    - gom chung hụi những viên bị trùng lại
+    - gộp chung hụi viên bị trùng lại
+    - gọp chung hụi viên bị trùng lại
+    - gộp chung những hụi viên bị trùng lại
+    - gọp chung những hụi viên bị trùng lại
+    - gom chung hụi những viên bị trùng lại thành một
+    - gộp chung hụi viên bị trùng lại thành một
+    - gọp chung hụi viên bị trùng lại thành một
+    - gộp chung những hụi viên bị trùng lại thành một
+    - gọp chung những hụi viên bị trùng lại thành một
+    - gom thông tin hụi những viên bị trùng
+    - gộp thông tin hụi viên bị trùng
+    - gọp thông tin hụi viên bị trùng
+    - gộp thông tin những hụi viên bị trùng
+    - gọp thông tin những hụi viên bị trùng
+    - gom thông tin hụi những viên bị trùng lại
+    - gộp thông tin hụi viên bị trùng lại
+    - gọp thông tin hụi viên bị trùng lại
+    - gộp thông tin những hụi viên bị trùng lại
+    - gọp thông tin những hụi viên bị trùng lại
+    - gom thông tin hụi những viên bị trùng lại thành một
+    - gộp thông tin hụi viên bị trùng lại thành một
+    - gọp thông tin hụi viên bị trùng lại thành một
+    - gộp thông tin những hụi viên bị trùng lại thành một
+    - gọp thông tin những hụi viên bị trùng lại thành một
+    - gom chung thông tin hụi những viên bị trùng lại
+    - gộp chung thông tin hụi viên bị trùng lại
+    - gọp chung thông tin hụi viên bị trùng lại
+    - gộp chung thông tin những hụi viên bị trùng lại
+    - gọp chung thông tin những hụi viên bị trùng lại
+    - gom chung thông tin hụi những viên bị trùng lại thành một
+    - gộp chung thông tin hụi viên bị trùng lại thành một
+    - gọp chung thông tin hụi viên bị trùng lại thành một
+    - gộp chung thông tin những hụi viên bị trùng lại thành một
+    - gọp chung thông tin những hụi viên bị trùng lại thành một
+    - gom hụi những viên trùng
+    - gộp hụi viên trùng
+    - gọp hụi viên trùng
+    - gộp những hụi viên trùng
+    - gọp những hụi viên trùng
+    - gom hụi những viên trùng lại
+    - gộp hụi viên trùng lại
+    - gọp hụi viên trùng lại
+    - gộp những hụi viên trùng lại
+    - gọp những hụi viên trùng lại
+    - gom hụi những viên trùng lại thành một
+    - gộp hụi viên trùng lại thành một
+    - gọp hụi viên trùng lại thành một
+    - gộp những hụi viên trùng lại thành một
+    - gọp những hụi viên trùng lại thành một
+    - gom chung hụi những viên trùng lại
+    - gộp chung hụi viên trùng lại
+    - gọp chung hụi viên trùng lại
+    - gộp chung những hụi viên trùng lại
+    - gọp chung những hụi viên trùng lại
+    - gom chung hụi những viên trùng lại thành một
+    - gộp chung hụi viên trùng lại thành một
+    - gọp chung hụi viên trùng lại thành một
+    - gộp chung những hụi viên trùng lại thành một
+    - gọp chung những hụi viên trùng lại thành một
+    - gom thông tin hụi những viên trùng
+    - gộp thông tin hụi viên trùng
+    - gọp thông tin hụi viên trùng
+    - gộp thông tin những hụi viên trùng
+    - gọp thông tin những hụi viên trùng
+    - gom thông tin hụi những viên trùng lại
+    - gộp thông tin hụi viên trùng lại
+    - gọp thông tin hụi viên trùng lại
+    - gộp thông tin những hụi viên trùng lại
+    - gọp thông tin những hụi viên trùng lại
+    - gom thông tin hụi những viên trùng lại thành một
+    - gộp thông tin hụi viên trùng lại thành một
+    - gọp thông tin hụi viên trùng lại thành một
+    - gộp thông tin những hụi viên trùng lại thành một
+    - gọp thông tin những hụi viên trùng lại thành một
+    - gom chung thông tin hụi những viên trùng lại
+    - gộp chung thông tin hụi viên trùng lại
+    - gọp chung thông tin hụi viên trùng lại
+    - gộp chung thông tin những hụi viên trùng lại
+    - gọp chung thông tin những hụi viên trùng lại
+    - gom chung thông tin hụi những viên trùng lại thành một
+    - gộp chung thông tin hụi viên trùng lại thành một
+    - gọp chung thông tin hụi viên trùng lại thành một
+    - gộp chung thông tin những hụi viên trùng lại thành một
+    - gọp chung thông tin những hụi viên trùng lại thành một
+    - gom hụi những viên bị giống nhau
+    - gộp hụi viên bị giống nhau
+    - gọp hụi viên bị giống nhau
+    - gộp những hụi viên bị giống nhau
+    - gọp những hụi viên bị giống nhau
+    - gom hụi những viên bị giống nhau lại
+    - gộp hụi viên bị giống nhau lại
+    - gọp hụi viên bị giống nhau lại
+    - gộp những hụi viên bị giống nhau lại
+    - gọp những hụi viên bị giống nhau lại
+    - gom hụi những viên bị giống nhau lại thành một
+    - gộp hụi viên bị giống nhau lại thành một
+    - gọp hụi viên bị giống nhau lại thành một
+    - gộp những hụi viên bị giống nhau lại thành một
+    - gọp những hụi viên bị giống nhau lại thành một
+    - gom chung hụi những viên bị giống nhau lại
+    - gộp chung hụi viên bị giống nhau lại
+    - gọp chung hụi viên bị giống nhau lại
+    - gộp chung những hụi viên bị giống nhau lại
+    - gọp chung những hụi viên bị giống nhau lại
+    - gom chung hụi những viên bị giống nhau lại thành một
+    - gộp chung hụi viên bị giống nhau lại thành một
+    - gọp chung hụi viên bị giống nhau lại thành một
+    - gộp chung những hụi viên bị giống nhau lại thành một
+    - gọp chung những hụi viên bị giống nhau lại thành một
+    - gom thông tin hụi những viên bị giống nhau
+    - gộp thông tin hụi viên bị giống nhau
+    - gọp thông tin hụi viên bị giống nhau
+    - gộp thông tin những hụi viên bị giống nhau
+    - gọp thông tin những hụi viên bị giống nhau
+    - gom thông tin hụi những viên bị giống nhau lại
+    - gộp thông tin hụi viên bị giống nhau lại
+    - gọp thông tin hụi viên bị giống nhau lại
+    - gộp thông tin những hụi viên bị giống nhau lại
+    - gọp thông tin những hụi viên bị giống nhau lại
+    - gom thông tin hụi những viên bị giống nhau lại thành một
+    - gộp thông tin hụi viên bị giống nhau lại thành một
+    - gọp thông tin hụi viên bị giống nhau lại thành một
+    - gộp thông tin những hụi viên bị giống nhau lại thành một
+    - gọp thông tin những hụi viên bị giống nhau lại thành một
+    - gom chung thông tin hụi những viên bị giống nhau lại
+    - gộp chung thông tin hụi viên bị giống nhau lại
+    - gọp chung thông tin hụi viên bị giống nhau lại
+    - gộp chung thông tin những hụi viên bị giống nhau lại
+    - gọp chung thông tin những hụi viên bị giống nhau lại
+    - gom chung thông tin hụi những viên bị giống nhau lại thành một
+    - gộp chung thông tin hụi viên bị giống nhau lại thành một
+    - gọp chung thông tin hụi viên bị giống nhau lại thành một
+    - gộp chung thông tin những hụi viên bị giống nhau lại thành một
+    - gọp chung thông tin những hụi viên bị giống nhau lại thành một
+    - gom hụi những viên giống nhau
+    - gộp hụi viên giống nhau
+    - gọp hụi viên giống nhau
+    - gộp những hụi viên giống nhau
+    - gọp những hụi viên giống nhau
+    - gom hụi những viên giống nhau lại
+    - gộp hụi viên giống nhau lại
+    - gọp hụi viên giống nhau lại
+    - gộp những hụi viên giống nhau lại
+    - gọp những hụi viên giống nhau lại
+    - gom hụi những viên giống nhau lại thành một
+    - gộp hụi viên giống nhau lại thành một
+    - gọp hụi viên giống nhau lại thành một
+    - gộp những hụi viên giống nhau lại thành một
+    - gọp những hụi viên giống nhau lại thành một
+    - gom chung hụi những viên giống nhau lại
+    - gộp chung hụi viên giống nhau lại
+    - gọp chung hụi viên giống nhau lại
+    - gộp chung những hụi viên giống nhau lại
+    - gọp chung những hụi viên giống nhau lại
+    - gom chung hụi những viên giống nhau lại thành một
+    - gộp chung hụi viên giống nhau lại thành một
+    - gọp chung hụi viên giống nhau lại thành một
+    - gộp chung những hụi viên giống nhau lại thành một
+    - gọp chung những hụi viên giống nhau lại thành một
+    - gom thông tin hụi những viên giống nhau
+    - gộp thông tin hụi viên giống nhau
+    - gọp thông tin hụi viên giống nhau
+    - gộp thông tin những hụi viên giống nhau
+    - gọp thông tin những hụi viên giống nhau
+    - gom thông tin hụi những viên giống nhau lại
+    - gộp thông tin hụi viên giống nhau lại
+    - gọp thông tin hụi viên giống nhau lại
+    - gộp thông tin những hụi viên giống nhau lại
+    - gọp thông tin những hụi viên giống nhau lại
+    - gom thông tin hụi những viên giống nhau lại thành một
+    - gộp thông tin hụi viên giống nhau lại thành một
+    - gọp thông tin hụi viên giống nhau lại thành một
+    - gộp thông tin những hụi viên giống nhau lại thành một
+    - gọp thông tin những hụi viên giống nhau lại thành một
+    - gom chung thông tin hụi những viên giống nhau lại
+    - gộp chung thông tin hụi viên giống nhau lại
+    - gọp chung thông tin hụi viên giống nhau lại
+    - gộp chung thông tin những hụi viên giống nhau lại
+    - gọp chung thông tin những hụi viên giống nhau lại
+    - gom chung thông tin hụi những viên giống nhau lại thành một
+    - gộp chung thông tin hụi viên giống nhau lại thành một
+    - gọp chung thông tin hụi viên giống nhau lại thành một
+    - gộp chung thông tin những hụi viên giống nhau lại thành một
+    - gọp chung thông tin những hụi viên giống nhau lại thành một
+    - gom hụi những viên bị dư
+    - gộp hụi viên bị dư
+    - gọp hụi viên bị dư
+    - gộp những hụi viên bị dư
+    - gọp những hụi viên bị dư
+    - gom hụi những viên bị dư lại
+    - gộp hụi viên bị dư lại
+    - gọp hụi viên bị dư lại
+    - gộp những hụi viên bị dư lại
+    - gọp những hụi viên bị dư lại
+    - gom hụi những viên bị dư lại thành một
+    - gộp hụi viên bị dư lại thành một
+    - gọp hụi viên bị dư lại thành một
+    - gộp những hụi viên bị dư lại thành một
+    - gọp những hụi viên bị dư lại thành một
+    - gom chung hụi những viên bị dư lại
+    - gộp chung hụi viên bị dư lại
+    - gọp chung hụi viên bị dư lại
+    - gộp chung những hụi viên bị dư lại
+    - gọp chung những hụi viên bị dư lại
+    - gom chung hụi những viên bị dư lại thành một
+    - gộp chung hụi viên bị dư lại thành một
+    - gọp chung hụi viên bị dư lại thành một
+    - gộp chung những hụi viên bị dư lại thành một
+    - gọp chung những hụi viên bị dư lại thành một
+    - gom thông tin hụi những viên bị dư
+    - gộp thông tin hụi viên bị dư
+    - gọp thông tin hụi viên bị dư
+    - gộp thông tin những hụi viên bị dư
+    - gọp thông tin những hụi viên bị dư
+    - gom thông tin hụi những viên bị dư lại
+    - gộp thông tin hụi viên bị dư lại
+    - gọp thông tin hụi viên bị dư lại
+    - gộp thông tin những hụi viên bị dư lại
+    - gọp thông tin những hụi viên bị dư lại
+    - gom thông tin hụi những viên bị dư lại thành một
+    - gộp thông tin hụi viên bị dư lại thành một
+    - gọp thông tin hụi viên bị dư lại thành một
+    - gộp thông tin những hụi viên bị dư lại thành một
+    - gọp thông tin những hụi viên bị dư lại thành một
+    - gom chung thông tin hụi những viên bị dư lại
+    - gộp chung thông tin hụi viên bị dư lại
+    - gọp chung thông tin hụi viên bị dư lại
+    - gộp chung thông tin những hụi viên bị dư lại
+    - gọp chung thông tin những hụi viên bị dư lại
+    - gom chung thông tin hụi những viên bị dư lại thành một
+    - gộp chung thông tin hụi viên bị dư lại thành một
+    - gọp chung thông tin hụi viên bị dư lại thành một
+    - gộp chung thông tin những hụi viên bị dư lại thành một
+    - gọp chung thông tin những hụi viên bị dư lại thành một
+    - gom hụi những viên dư
+    - gộp hụi viên dư
+    - gọp hụi viên dư
+    - gộp những hụi viên dư
+    - gọp những hụi viên dư
+    - gom hụi những viên dư lại
+    - gộp hụi viên dư lại
+    - gọp hụi viên dư lại
+    - gộp những hụi viên dư lại
+    - gọp những hụi viên dư lại
+    - gom hụi những viên dư lại thành một
+    - gộp hụi viên dư lại thành một
+    - gọp hụi viên dư lại thành một
+    - gộp những hụi viên dư lại thành một
+    - gọp những hụi viên dư lại thành một
+    - gom chung hụi những viên dư lại
+    - gộp chung hụi viên dư lại
+    - gọp chung hụi viên dư lại
+    - gộp chung những hụi viên dư lại
+    - gọp chung những hụi viên dư lại
+    - gom chung hụi những viên dư lại thành một
+    - gộp chung hụi viên dư lại thành một
+    - gọp chung hụi viên dư lại thành một
+    - gộp chung những hụi viên dư lại thành một
+    - gọp chung những hụi viên dư lại thành một
+    - gom thông tin hụi những viên dư
+    - gộp thông tin hụi viên dư
+    - gọp thông tin hụi viên dư
+    - gộp thông tin những hụi viên dư
+    - gọp thông tin những hụi viên dư
+    - gom thông tin hụi những viên dư lại
+    - gộp thông tin hụi viên dư lại
+    - gọp thông tin hụi viên dư lại
+    - gộp thông tin những hụi viên dư lại
+    - gọp thông tin những hụi viên dư lại
+    - gom thông tin hụi những viên dư lại thành một
+    - gộp thông tin hụi viên dư lại thành một
+    - gọp thông tin hụi viên dư lại thành một
+    - gộp thông tin những hụi viên dư lại thành một
+    - gọp thông tin những hụi viên dư lại thành một
+    - gom chung thông tin hụi những viên dư lại
+    - gộp chung thông tin hụi viên dư lại
+    - gọp chung thông tin hụi viên dư lại
+    - gộp chung thông tin những hụi viên dư lại
+    - gọp chung thông tin những hụi viên dư lại
+    - gom chung thông tin hụi những viên dư lại thành một
+    - gộp chung thông tin hụi viên dư lại thành một
+    - gọp chung thông tin hụi viên dư lại thành một
+    - gộp chung thông tin những hụi viên dư lại thành một
+    - gọp chung thông tin những hụi viên dư lại thành một
+    - gom hụi những viên bị cùng thông tin
+    - gộp hụi viên bị cùng thông tin
+    - gọp hụi viên bị cùng thông tin
+    - gộp những hụi viên bị cùng thông tin
+    - gọp những hụi viên bị cùng thông tin
+    - gom hụi những viên bị cùng thông tin lại
+    - gộp hụi viên bị cùng thông tin lại
+    - gọp hụi viên bị cùng thông tin lại
+    - gộp những hụi viên bị cùng thông tin lại
+    - gọp những hụi viên bị cùng thông tin lại
+    - gom hụi những viên bị cùng thông tin lại thành một
+    - gộp hụi viên bị cùng thông tin lại thành một
+    - gọp hụi viên bị cùng thông tin lại thành một
+    - gộp những hụi viên bị cùng thông tin lại thành một
+    - gọp những hụi viên bị cùng thông tin lại thành một
+    - gom chung hụi những viên bị cùng thông tin lại
+    - gộp chung hụi viên bị cùng thông tin lại
+    - gọp chung hụi viên bị cùng thông tin lại
+    - gộp chung những hụi viên bị cùng thông tin lại
+    - gọp chung những hụi viên bị cùng thông tin lại
+    - gom chung hụi những viên bị cùng thông tin lại thành một
+    - gộp chung hụi viên bị cùng thông tin lại thành một
+    - gọp chung hụi viên bị cùng thông tin lại thành một
+    - gộp chung những hụi viên bị cùng thông tin lại thành một
+    - gọp chung những hụi viên bị cùng thông tin lại thành một
+    - gom thông tin hụi những viên bị cùng thông tin
+    - gộp thông tin hụi viên bị cùng thông tin
+    - gọp thông tin hụi viên bị cùng thông tin
+    - gộp thông tin những hụi viên bị cùng thông tin
+    - gọp thông tin những hụi viên bị cùng thông tin
+    - gom thông tin hụi những viên bị cùng thông tin lại
+    - gộp thông tin hụi viên bị cùng thông tin lại
+    - gọp thông tin hụi viên bị cùng thông tin lại
+    - gộp thông tin những hụi viên bị cùng thông tin lại
+    - gọp thông tin những hụi viên bị cùng thông tin lại
+    - gom thông tin hụi những viên bị cùng thông tin lại thành một
+    - gộp thông tin hụi viên bị cùng thông tin lại thành một
+    - gọp thông tin hụi viên bị cùng thông tin lại thành một
+    - gộp thông tin những hụi viên bị cùng thông tin lại thành một
+    - gọp thông tin những hụi viên bị cùng thông tin lại thành một
+    - gom chung thông tin hụi những viên bị cùng thông tin lại
+    - gộp chung thông tin hụi viên bị cùng thông tin lại
+    - gọp chung thông tin hụi viên bị cùng thông tin lại
+    - gộp chung thông tin những hụi viên bị cùng thông tin lại
+    - gọp chung thông tin những hụi viên bị cùng thông tin lại
+    - gom chung thông tin hụi những viên bị cùng thông tin lại thành một
+    - gộp chung thông tin hụi viên bị cùng thông tin lại thành một
+    - gọp chung thông tin hụi viên bị cùng thông tin lại thành một
+    - gộp chung thông tin những hụi viên bị cùng thông tin lại thành một
+    - gọp chung thông tin những hụi viên bị cùng thông tin lại thành một
+    - gom hụi những viên cùng thông tin
+    - gộp hụi viên cùng thông tin
+    - gọp hụi viên cùng thông tin
+    - gộp những hụi viên cùng thông tin
+    - gọp những hụi viên cùng thông tin
+    - gom hụi những viên cùng thông tin lại
+    - gộp hụi viên cùng thông tin lại
+    - gọp hụi viên cùng thông tin lại
+    - gộp những hụi viên cùng thông tin lại
+    - gọp những hụi viên cùng thông tin lại
+    - gom hụi những viên cùng thông tin lại thành một
+    - gộp hụi viên cùng thông tin lại thành một
+    - gọp hụi viên cùng thông tin lại thành một
+    - gộp những hụi viên cùng thông tin lại thành một
+    - gọp những hụi viên cùng thông tin lại thành một
+    - gom chung hụi những viên cùng thông tin lại
+    - gộp chung hụi viên cùng thông tin lại
+    - gọp chung hụi viên cùng thông tin lại
+    - gộp chung những hụi viên cùng thông tin lại
+    - gọp chung những hụi viên cùng thông tin lại
+    - gom chung hụi những viên cùng thông tin lại thành một
+    - gộp chung hụi viên cùng thông tin lại thành một
+    - gọp chung hụi viên cùng thông tin lại thành một
+    - gộp chung những hụi viên cùng thông tin lại thành một
+    - gọp chung những hụi viên cùng thông tin lại thành một
+    - gom thông tin hụi những viên cùng thông tin
+    - gộp thông tin hụi viên cùng thông tin
+    - gọp thông tin hụi viên cùng thông tin
+    - gộp thông tin những hụi viên cùng thông tin
+    - gọp thông tin những hụi viên cùng thông tin
+    - gom thông tin hụi những viên cùng thông tin lại
+    - gộp thông tin hụi viên cùng thông tin lại
+    - gọp thông tin hụi viên cùng thông tin lại
+    - gộp thông tin những hụi viên cùng thông tin lại
+    - gọp thông tin những hụi viên cùng thông tin lại
+    - gom thông tin hụi những viên cùng thông tin lại thành một
+    - gộp thông tin hụi viên cùng thông tin lại thành một
+    - gọp thông tin hụi viên cùng thông tin lại thành một
+    - gộp thông tin những hụi viên cùng thông tin lại thành một
+    - gọp thông tin những hụi viên cùng thông tin lại thành một
+    - gom chung thông tin hụi những viên cùng thông tin lại
+    - gộp chung thông tin hụi viên cùng thông tin lại
+    - gọp chung thông tin hụi viên cùng thông tin lại
+    - gộp chung thông tin những hụi viên cùng thông tin lại
+    - gọp chung thông tin những hụi viên cùng thông tin lại
+    - gom chung thông tin hụi những viên cùng thông tin lại thành một
+    - gộp chung thông tin hụi viên cùng thông tin lại thành một
+    - gọp chung thông tin hụi viên cùng thông tin lại thành một
+    - gộp chung thông tin những hụi viên cùng thông tin lại thành một
+    - gọp chung thông tin những hụi viên cùng thông tin lại thành một
+    - gom hụi những viên bị cùng tên
+    - gộp hụi viên bị cùng tên
+    - gọp hụi viên bị cùng tên
+    - gộp những hụi viên bị cùng tên
+    - gọp những hụi viên bị cùng tên
+    - gom hụi những viên bị cùng tên lại
+    - gộp hụi viên bị cùng tên lại
+    - gọp hụi viên bị cùng tên lại
+    - gộp những hụi viên bị cùng tên lại
+    - gọp những hụi viên bị cùng tên lại
+    - gom hụi những viên bị cùng tên lại thành một
+    - gộp hụi viên bị cùng tên lại thành một
+    - gọp hụi viên bị cùng tên lại thành một
+    - gộp những hụi viên bị cùng tên lại thành một
+    - gọp những hụi viên bị cùng tên lại thành một
+    - gom chung hụi những viên bị cùng tên lại
+    - gộp chung hụi viên bị cùng tên lại
+    - gọp chung hụi viên bị cùng tên lại
+    - gộp chung những hụi viên bị cùng tên lại
+    - gọp chung những hụi viên bị cùng tên lại
+    - gom chung hụi những viên bị cùng tên lại thành một
+    - gộp chung hụi viên bị cùng tên lại thành một
+    - gọp chung hụi viên bị cùng tên lại thành một
+    - gộp chung những hụi viên bị cùng tên lại thành một
+    - gọp chung những hụi viên bị cùng tên lại thành một
+    - gom tên hụi những viên bị cùng tên
+    - gộp tên hụi viên bị cùng tên
+    - gọp tên hụi viên bị cùng tên
+    - gộp tên những hụi viên bị cùng tên
+    - gọp tên những hụi viên bị cùng tên
+    - gom tên hụi những viên bị cùng tên lại
+    - gộp tên hụi viên bị cùng tên lại
+    - gọp tên hụi viên bị cùng tên lại
+    - gộp tên những hụi viên bị cùng tên lại
+    - gọp tên những hụi viên bị cùng tên lại
+    - gom tên hụi những viên bị cùng tên lại thành một
+    - gộp tên hụi viên bị cùng tên lại thành một
+    - gọp tên hụi viên bị cùng tên lại thành một
+    - gộp tên những hụi viên bị cùng tên lại thành một
+    - gọp tên những hụi viên bị cùng tên lại thành một
+    - gom chung tên hụi những viên bị cùng tên lại
+    - gộp chung tên hụi viên bị cùng tên lại
+    - gọp chung tên hụi viên bị cùng tên lại
+    - gộp chung tên những hụi viên bị cùng tên lại
+    - gọp chung tên những hụi viên bị cùng tên lại
+    - gom chung tên hụi những viên bị cùng tên lại thành một
+    - gộp chung tên hụi viên bị cùng tên lại thành một
+    - gọp chung tên hụi viên bị cùng tên lại thành một
+    - gộp chung tên những hụi viên bị cùng tên lại thành một
+    - gọp chung tên những hụi viên bị cùng tên lại thành một
+    - gom hụi những viên cùng tên
+    - gộp hụi viên cùng tên
+    - gọp hụi viên cùng tên
+    - gộp những hụi viên cùng tên
+    - gọp những hụi viên cùng tên
+    - gom hụi những viên cùng tên lại
+    - gộp hụi viên cùng tên lại
+    - gọp hụi viên cùng tên lại
+    - gộp những hụi viên cùng tên lại
+    - gọp những hụi viên cùng tên lại
+    - gom hụi những viên cùng tên lại thành một
+    - gộp hụi viên cùng tên lại thành một
+    - gọp hụi viên cùng tên lại thành một
+    - gộp những hụi viên cùng tên lại thành một
+    - gọp những hụi viên cùng tên lại thành một
+    - gom chung hụi những viên cùng tên lại
+    - gộp chung hụi viên cùng tên lại
+    - gọp chung hụi viên cùng tên lại
+    - gộp chung những hụi viên cùng tên lại
+    - gọp chung những hụi viên cùng tên lại
+    - gom chung hụi những viên cùng tên lại thành một
+    - gộp chung hụi viên cùng tên lại thành một
+    - gọp chung hụi viên cùng tên lại thành một
+    - gộp chung những hụi viên cùng tên lại thành một
+    - gọp chung những hụi viên cùng tên lại thành một
+    - gom tên hụi những viên cùng tên
+    - gộp tên hụi viên cùng tên
+    - gọp tên hụi viên cùng tên
+    - gộp tên những hụi viên cùng tên
+    - gọp tên những hụi viên cùng tên
+    - gom tên hụi những viên cùng tên lại
+    - gộp tên hụi viên cùng tên lại
+    - gọp tên hụi viên cùng tên lại
+    - gộp tên những hụi viên cùng tên lại
+    - gọp tên những hụi viên cùng tên lại
+    - gom tên hụi những viên cùng tên lại thành một
+    - gộp tên hụi viên cùng tên lại thành một
+    - gọp tên hụi viên cùng tên lại thành một
+    - gộp tên những hụi viên cùng tên lại thành một
+    - gọp tên những hụi viên cùng tên lại thành một
+    - gom chung tên hụi những viên cùng tên lại
+    - gộp chung tên hụi viên cùng tên lại
+    - gọp chung tên hụi viên cùng tên lại
+    - gộp chung tên những hụi viên cùng tên lại
+    - gọp chung tên những hụi viên cùng tên lại
+    - gom chung tên hụi những viên cùng tên lại thành một
+    - gộp chung tên hụi viên cùng tên lại thành một
+    - gọp chung tên hụi viên cùng tên lại thành một
+    - gộp chung tên những hụi viên cùng tên lại thành một
+    - gọp chung tên những hụi viên cùng tên lại thành một
 
 - synonym: thêm số phần hụi trong dây hụi
   examples: |
@@ -937,8 +1710,501 @@ nlu:
 
 - synonym: hốt hụi nhiều người cùng kỳ
   examples: |
-    - bốc hụi nhiều người cùng kỳ
-    - bóc hụi nhiều người cùng kỳ
+    - hốt hụi nhiều người
+    - hốt hụi nhiều người chung kỳ
+    - hốt hụi nhiều người giống kỳ
+    - hốt hụi nhiều người chung một kỳ
+    - hốc hụi nhiều người
+    - hốc hụi nhiều người chung kỳ
+    - hốc hụi nhiều người giống kỳ
+    - hốc hụi nhiều người chung một kỳ
+    - lấy hụi nhiều người
+    - lấy hụi nhiều người chung kỳ
+    - lấy hụi nhiều người giống kỳ
+    - lấy hụi nhiều người chung một kỳ
+    - gom hụi nhiều người
+    - gom hụi nhiều người chung kỳ
+    - gom hụi nhiều người giống kỳ
+    - gom hụi nhiều người chung một kỳ
+    - gôm hụi nhiều người
+    - gôm hụi nhiều người chung kỳ
+    - gôm hụi nhiều người giống kỳ
+    - gôm hụi nhiều người chung một kỳ
+    - khui hụi nhiều người
+    - khui hụi nhiều người chung kỳ
+    - khui hụi nhiều người giống kỳ
+    - khui hụi nhiều người chung một kỳ
+    - hốt tiền hụi nhiều người
+    - hốt tiền hụi nhiều người chung kỳ
+    - hốt tiền hụi nhiều người giống kỳ
+    - hốt tiền hụi nhiều người chung một kỳ
+    - hốc tiền hụi nhiều người
+    - hốc tiền hụi nhiều người chung kỳ
+    - hốc tiền hụi nhiều người giống kỳ
+    - hốc tiền hụi nhiều người chung một kỳ
+    - tiền tiền hụi nhiều người
+    - tiền tiền hụi nhiều người chung kỳ
+    - tiền tiền hụi nhiều người giống kỳ
+    - tiền tiền hụi nhiều người chung một kỳ
+    - gom tiền hụi nhiều người
+    - gom tiền hụi nhiều người chung kỳ
+    - gom tiền hụi nhiều người giống kỳ
+    - gom tiền hụi nhiều người chung một kỳ
+    - gôm tiền hụi nhiều người
+    - gôm tiền hụi nhiều người chung kỳ
+    - gôm tiền hụi nhiều người giống kỳ
+    - gôm tiền hụi nhiều người chung một kỳ
+    - khui tiền hụi nhiều người
+    - khui tiền hụi nhiều người chung kỳ
+    - khui tiền hụi nhiều người giống kỳ
+    - khui tiền hụi nhiều người chung một kỳ
+
+- synonym: thay đổi hụi viên trong dây hụi
+  examples: |
+    - thay đổi hụi viên
+    - thay đổi số hụi viên
+    - thay đổi số hụi viên trong dây hụi
+    - thay hụi viên
+    - thay số hụi viên
+    - thay số hụi viên trong dây hụi
+    - chuyển đổi hụi viên
+    - chuyển đổi hụi viên trong dây hụi
+    - chuyển đổi số hụi viên
+    - chuyển đổi số hụi viên trong dây hụi
+    - chuyển hụi viên
+    - chuyển số hụi viên
+    - chuyển số hụi viên trong dây hụi
+    - chuyễn đổi hụi viên
+    - chuyễn đổi hụi viên trong dây hụi
+    - chuyễn đổi số hụi viên
+    - chuyễn đổi số hụi viên trong dây hụi
+    - chuyễn hụi viên
+    - chuyễn số hụi viên
+    - chuyễn số hụi viên trong dây hụi
+    - chỉnh hụi viên
+    - chỉnh hụi viên trong dây hụi
+    - chỉnh số hụi viên
+    - chỉnh số hụi viên trong dây hụi
+    - chỉnh hụi viên
+    - chỉnh số hụi viên
+    - chỉnh số hụi viên trong dây hụi
+    - chĩnh hụi viên
+    - chĩnh hụi viên trong dây hụi
+    - chĩnh số hụi viên
+    - chĩnh số hụi viên trong dây hụi
+    - chĩnh hụi viên
+    - chĩnh số hụi viên
+    - chĩnh số hụi viên trong dây hụi
+    - sửa hụi viên
+    - sửa hụi viên trong dây hụi
+    - sửa số hụi viên
+    - sửa số hụi viên trong dây hụi
+    - sửa hụi viên
+    - sửa số hụi viên
+    - sửa số hụi viên trong dây hụi
+    - sữa hụi viên
+    - sữa hụi viên trong dây hụi
+    - sữa số hụi viên
+    - sữa số hụi viên trong dây hụi
+    - sữa hụi viên
+    - sữa số hụi viên
+    - sữa số hụi viên trong dây hụi
+    - điều chỉnh hụi viên
+    - điều chỉnh hụi viên trong dây hụi
+    - điều chỉnh số hụi viên
+    - điều chỉnh số hụi viên trong dây hụi
+    - điều chỉnh hụi viên
+    - điều chỉnh số hụi viên
+    - điều chỉnh số hụi viên trong dây hụi
+    - đổi hụi viên
+    - đổi hụi viên trong dây hụi
+    - đổi số hụi viên
+    - đổi số hụi viên trong dây hụi
+    - đổi hụi viên
+    - đổi số hụi viên
+    - đổi số hụi viên trong dây hụi
+    - đỗi hụi viên
+    - đỗi hụi viên trong dây hụi
+    - đỗi số hụi viên
+    - đỗi số hụi viên trong dây hụi
+    - đỗi hụi viên
+    - đỗi số hụi viên
+    - đỗi số hụi viên trong dây hụi
+    - sửa đổi hụi viên
+    - sửa đổi hụi viên trong dây hụi
+    - sửa đổi số hụi viên
+    - sửa đổi số hụi viên trong dây hụi
+    - sửa đổi hụi viên
+    - sửa đổi số hụi viên
+    - sửa đổi số hụi viên trong dây hụi
+    - sửa đỗi hụi viên
+    - sửa đỗi hụi viên trong dây hụi
+    - sửa đỗi số hụi viên
+    - sửa đỗi số hụi viên trong dây hụi
+    - sửa đỗi hụi viên
+    - sửa đỗi số hụi viên
+    - sửa đỗi số hụi viên trong dây hụi
+    - sữa đổi hụi viên
+    - sữa đổi hụi viên trong dây hụi
+    - sữa đổi số hụi viên
+    - sữa đổi số hụi viên trong dây hụi
+    - sữa đổi hụi viên
+    - sữa đổi số hụi viên
+    - sữa đổi số hụi viên trong dây hụi
+    - sữa đỗi hụi viên
+    - sữa đỗi hụi viên trong dây hụi
+    - sữa đỗi số hụi viên
+    - sữa đỗi số hụi viên trong dây hụi
+    - sữa đỗi hụi viên
+    - sữa đỗi số hụi viên
+    - sữa đỗi số hụi viên trong dây hụi
+    - đỏi hụi viên
+    - đỏi hụi viên trong dây hụi
+    - đỏi số hụi viên
+    - đỏi số hụi viên trong dây hụi
+    - đỏi hụi viên
+    - đỏi số hụi viên
+    - đỏi số hụi viên trong dây hụi
+    - đỏi hụi viên
+    - đỏi hụi viên trong dây hụi
+    - đỏi số hụi viên
+    - đỏi số hụi viên trong dây hụi
+    - đỏi hụi viên
+    - đỏi số hụi viên
+    - đỏi số hụi viên trong dây hụi
+    - sửa đỏi hụi viên
+    - sửa đỏi hụi viên trong dây hụi
+    - sửa đỏi số hụi viên
+    - sửa đỏi số hụi viên trong dây hụi
+    - sửa đỏi hụi viên
+    - sửa đỏi số hụi viên
+    - sửa đỏi số hụi viên trong dây hụi
+    - sửa đõi hụi viên
+    - sửa đõi hụi viên trong dây hụi
+    - sửa đõi số hụi viên
+    - sửa đõi số hụi viên trong dây hụi
+    - sửa đõi hụi viên
+    - sửa đõi số hụi viên
+    - sửa đõi số hụi viên trong dây hụi
+    - sữa đỏi hụi viên
+    - sữa đỏi hụi viên trong dây hụi
+    - sữa đỏi số hụi viên
+    - sữa đỏi số hụi viên trong dây hụi
+    - sữa đỏi hụi viên
+    - sữa đỏi số hụi viên
+    - sữa đỏi số hụi viên trong dây hụi
+    - sữa đõi hụi viên
+    - sữa đõi hụi viên trong dây hụi
+    - sữa đõi số hụi viên
+    - sữa đõi số hụi viên trong dây hụi
+    - sữa đõi hụi viên
+    - sữa đõi số hụi viên
+    - sữa đõi số hụi viên trong dây hụi
+    - thay đổi người
+    - thay đổi số người
+    - thay đổi số người trong dây hụi
+    - thay người
+    - thay số người
+    - thay số người trong dây hụi
+    - chuyển đổi người
+    - chuyển đổi người trong dây hụi
+    - chuyển đổi số người
+    - chuyển đổi số người trong dây hụi
+    - chuyển người
+    - chuyển số người
+    - chuyển số người trong dây hụi
+    - chuyễn đổi người
+    - chuyễn đổi người trong dây hụi
+    - chuyễn đổi số người
+    - chuyễn đổi số người trong dây hụi
+    - chuyễn người
+    - chuyễn số người
+    - chuyễn số người trong dây hụi
+    - chỉnh người
+    - chỉnh người trong dây hụi
+    - chỉnh số người
+    - chỉnh số người trong dây hụi
+    - chỉnh người
+    - chỉnh số người
+    - chỉnh số người trong dây hụi
+    - chĩnh người
+    - chĩnh người trong dây hụi
+    - chĩnh số người
+    - chĩnh số người trong dây hụi
+    - chĩnh người
+    - chĩnh số người
+    - chĩnh số người trong dây hụi
+    - sửa người
+    - sửa người trong dây hụi
+    - sửa số người
+    - sửa số người trong dây hụi
+    - sửa người
+    - sửa số người
+    - sửa số người trong dây hụi
+    - sữa người
+    - sữa người trong dây hụi
+    - sữa số người
+    - sữa số người trong dây hụi
+    - sữa người
+    - sữa số người
+    - sữa số người trong dây hụi
+    - điều chỉnh người
+    - điều chỉnh người trong dây hụi
+    - điều chỉnh số người
+    - điều chỉnh số người trong dây hụi
+    - điều chỉnh người
+    - điều chỉnh số người
+    - điều chỉnh số người trong dây hụi
+    - đổi người
+    - đổi người trong dây hụi
+    - đổi số người
+    - đổi số người trong dây hụi
+    - đổi người
+    - đổi số người
+    - đổi số người trong dây hụi
+    - đỗi người
+    - đỗi người trong dây hụi
+    - đỗi số người
+    - đỗi số người trong dây hụi
+    - đỗi người
+    - đỗi số người
+    - đỗi số người trong dây hụi
+    - sửa đổi người
+    - sửa đổi người trong dây hụi
+    - sửa đổi số người
+    - sửa đổi số người trong dây hụi
+    - sửa đổi người
+    - sửa đổi số người
+    - sửa đổi số người trong dây hụi
+    - sửa đỗi người
+    - sửa đỗi người trong dây hụi
+    - sửa đỗi số người
+    - sửa đỗi số người trong dây hụi
+    - sửa đỗi người
+    - sửa đỗi số người
+    - sửa đỗi số người trong dây hụi
+    - sữa đổi người
+    - sữa đổi người trong dây hụi
+    - sữa đổi số người
+    - sữa đổi số người trong dây hụi
+    - sữa đổi người
+    - sữa đổi số người
+    - sữa đổi số người trong dây hụi
+    - sữa đỗi người
+    - sữa đỗi người trong dây hụi
+    - sữa đỗi số người
+    - sữa đỗi số người trong dây hụi
+    - sữa đỗi người
+    - sữa đỗi số người
+    - sữa đỗi số người trong dây hụi
+    - đỏi người
+    - đỏi người trong dây hụi
+    - đỏi số người
+    - đỏi số người trong dây hụi
+    - đỏi người
+    - đỏi số người
+    - đỏi số người trong dây hụi
+    - đỏi người
+    - đỏi người trong dây hụi
+    - đỏi số người
+    - đỏi số người trong dây hụi
+    - đỏi người
+    - đỏi số người
+    - đỏi số người trong dây hụi
+    - sửa đỏi người
+    - sửa đỏi người trong dây hụi
+    - sửa đỏi số người
+    - sửa đỏi số người trong dây hụi
+    - sửa đỏi người
+    - sửa đỏi số người
+    - sửa đỏi số người trong dây hụi
+    - sửa đõi người
+    - sửa đõi người trong dây hụi
+    - sửa đõi số người
+    - sửa đõi số người trong dây hụi
+    - sửa đõi người
+    - sửa đõi số người
+    - sửa đõi số người trong dây hụi
+    - sữa đỏi người
+    - sữa đỏi người trong dây hụi
+    - sữa đỏi số người
+    - sữa đỏi số người trong dây hụi
+    - sữa đỏi người
+    - sữa đỏi số người
+    - sữa đỏi số người trong dây hụi
+    - sữa đõi người
+    - sữa đõi người trong dây hụi
+    - sữa đõi số người
+    - sữa đõi số người trong dây hụi
+    - sữa đõi người
+    - sữa đõi số người
+    - sữa đõi số người trong dây hụi
+    - thay đổi thành viên
+    - thay đổi số thành viên
+    - thay đổi số thành viên trong dây hụi
+    - thay thành viên
+    - thay số thành viên
+    - thay số thành viên trong dây hụi
+    - chuyển đổi thành viên
+    - chuyển đổi thành viên trong dây hụi
+    - chuyển đổi số thành viên
+    - chuyển đổi số thành viên trong dây hụi
+    - chuyển thành viên
+    - chuyển số thành viên
+    - chuyển số thành viên trong dây hụi
+    - chuyễn đổi thành viên
+    - chuyễn đổi thành viên trong dây hụi
+    - chuyễn đổi số thành viên
+    - chuyễn đổi số thành viên trong dây hụi
+    - chuyễn thành viên
+    - chuyễn số thành viên
+    - chuyễn số thành viên trong dây hụi
+    - chỉnh thành viên
+    - chỉnh thành viên trong dây hụi
+    - chỉnh số thành viên
+    - chỉnh số thành viên trong dây hụi
+    - chỉnh thành viên
+    - chỉnh số thành viên
+    - chỉnh số thành viên trong dây hụi
+    - chĩnh thành viên
+    - chĩnh thành viên trong dây hụi
+    - chĩnh số thành viên
+    - chĩnh số thành viên trong dây hụi
+    - chĩnh thành viên
+    - chĩnh số thành viên
+    - chĩnh số thành viên trong dây hụi
+    - sửa thành viên
+    - sửa thành viên trong dây hụi
+    - sửa số thành viên
+    - sửa số thành viên trong dây hụi
+    - sửa thành viên
+    - sửa số thành viên
+    - sửa số thành viên trong dây hụi
+    - sữa thành viên
+    - sữa thành viên trong dây hụi
+    - sữa số thành viên
+    - sữa số thành viên trong dây hụi
+    - sữa thành viên
+    - sữa số thành viên
+    - sữa số thành viên trong dây hụi
+    - điều chỉnh thành viên
+    - điều chỉnh thành viên trong dây hụi
+    - điều chỉnh số thành viên
+    - điều chỉnh số thành viên trong dây hụi
+    - điều chỉnh thành viên
+    - điều chỉnh số thành viên
+    - điều chỉnh số thành viên trong dây hụi
+    - đổi thành viên
+    - đổi thành viên trong dây hụi
+    - đổi số thành viên
+    - đổi số thành viên trong dây hụi
+    - đổi thành viên
+    - đổi số thành viên
+    - đổi số thành viên trong dây hụi
+    - đỗi thành viên
+    - đỗi thành viên trong dây hụi
+    - đỗi số thành viên
+    - đỗi số thành viên trong dây hụi
+    - đỗi thành viên
+    - đỗi số thành viên
+    - đỗi số thành viên trong dây hụi
+    - sửa đổi thành viên
+    - sửa đổi thành viên trong dây hụi
+    - sửa đổi số thành viên
+    - sửa đổi số thành viên trong dây hụi
+    - sửa đổi thành viên
+    - sửa đổi số thành viên
+    - sửa đổi số thành viên trong dây hụi
+    - sửa đỗi thành viên
+    - sửa đỗi thành viên trong dây hụi
+    - sửa đỗi số thành viên
+    - sửa đỗi số thành viên trong dây hụi
+    - sửa đỗi thành viên
+    - sửa đỗi số thành viên
+    - sửa đỗi số thành viên trong dây hụi
+    - sữa đổi thành viên
+    - sữa đổi thành viên trong dây hụi
+    - sữa đổi số thành viên
+    - sữa đổi số thành viên trong dây hụi
+    - sữa đổi thành viên
+    - sữa đổi số thành viên
+    - sữa đổi số thành viên trong dây hụi
+    - sữa đỗi thành viên
+    - sữa đỗi thành viên trong dây hụi
+    - sữa đỗi số thành viên
+    - sữa đỗi số thành viên trong dây hụi
+    - sữa đỗi thành viên
+    - sữa đỗi số thành viên
+    - sữa đỗi số thành viên trong dây hụi
+    - đỏi thành viên
+    - đỏi thành viên trong dây hụi
+    - đỏi số thành viên
+    - đỏi số thành viên trong dây hụi
+    - đỏi thành viên
+    - đỏi số thành viên
+    - đỏi số thành viên trong dây hụi
+    - đỏi thành viên
+    - đỏi thành viên trong dây hụi
+    - đỏi số thành viên
+    - đỏi số thành viên trong dây hụi
+    - đỏi thành viên
+    - đỏi số thành viên
+    - đỏi số thành viên trong dây hụi
+    - sửa đỏi thành viên
+    - sửa đỏi thành viên trong dây hụi
+    - sửa đỏi số thành viên
+    - sửa đỏi số thành viên trong dây hụi
+    - sửa đỏi thành viên
+    - sửa đỏi số thành viên
+    - sửa đỏi số thành viên trong dây hụi
+    - sửa đõi thành viên
+    - sửa đõi thành viên trong dây hụi
+    - sửa đõi số thành viên
+    - sửa đõi số thành viên trong dây hụi
+    - sửa đõi thành viên
+    - sửa đõi số thành viên
+    - sửa đõi số thành viên trong dây hụi
+    - sữa đỏi thành viên
+    - sữa đỏi thành viên trong dây hụi
+    - sữa đỏi số thành viên
+    - sữa đỏi số thành viên trong dây hụi
+    - sữa đỏi thành viên
+    - sữa đỏi số thành viên
+    - sữa đỏi số thành viên trong dây hụi
+    - sữa đõi thành viên
+    - sữa đõi thành viên trong dây hụi
+    - sữa đõi số thành viên
+    - sữa đõi số thành viên trong dây hụi
+    - sữa đõi thành viên
+    - sữa đõi số thành viên
+    - sữa đõi số thành viên trong dây hụi
+
+- synonym: xóa tất toán hụi chết
+  examples: |
+    - xóa tất toán hụi đã chết
+    - xóa tất toán dây hụi chết
+    - xóa tất toán dây hụi đã chết
+    - hủy tất toán hụi đã chết
+    - hủy tất toán dây hụi chết
+    - hủy tất toán dây hụi đã chết
+    - bỏ tất toán hụi đã chết
+    - bỏ tất toán dây hụi chết
+    - bỏ tất toán dây hụi đã chết
+    - hủy bỏ tất toán hụi đã chết
+    - hủy bỏ tất toán dây hụi chết
+    - hủy bỏ tất toán dây hụi đã chết
+    - xóa bỏ tất toán hụi đã chết
+    - xóa bỏ tất toán dây hụi chết
+    - xóa bỏ tất toán dây hụi đã chết
+    - xóa đi tất toán hụi đã chết
+    - xóa đi tất toán dây hụi chết
+    - xóa đi tất toán dây hụi đã chết
+
+- synonym: tất toán hụi sống
+  examples: |
+    - tất toán dây hụi sống
+    - tất toán hụi còn sống
+    - tất toán dây còn hụi sống
 
 - synonym: tạo dây hụi góp
   examples: |
@@ -965,10 +2231,76 @@ nlu:
     - mở lại dây hụi mãn
     - mở lại dây hụi bị mãn
     - mở dây hụi bị mãn trở lại đang hoạt động
+    - mở hụi mãn hoạt động lại
+    - mở lại dây hụi mãn hoạt động trở lại
+    - mở hụi mãn hoạt động trở lại
+    - mở dây hụi dây mãn hoạt động trở lại
     - chỉnh dây hụi mãn
     - chỉnh lại dây hụi mãn
     - chỉnh lại dây hụi bị mãn
     - chỉnh dây hụi bị mãn trở lại đang hoạt động
+    - chuyễn dây hụi mãn
+    - chuyễn lại dây hụi mãn
+    - chuyễn lại dây hụi bị mãn
+    - chuyễn dây hụi bị mãn trở lại đang hoạt động
+    - chuyển dây hụi mãn
+    - chuyển lại dây hụi mãn
+    - chuyển lại dây hụi bị mãn
+    - chuyển dây hụi bị mãn trở lại đang hoạt động
+    - đưa dây hụi mãn
+    - đưa lại dây hụi mãn
+    - đưa lại dây hụi bị mãn
+    - đưa dây hụi bị mãn trở lại đang hoạt động
+    - sửa dây hụi mãn
+    - sửa lại dây hụi mãn
+    - sửa lại dây hụi bị mãn
+    - sửa dây hụi bị mãn trở lại đang hoạt động
+    - chỉnh dây hụi mản
+    - chỉnh lại dây hụi mản
+    - chỉnh lại dây hụi bị mản
+    - chỉnh dây hụi bị mản trở lại đang hoạt động
+    - chỉnh hụi mãn hoạt động lại
+    - chỉnh lại dây hụi mãn hoạt động trở lại
+    - chỉnh hụi mãn hoạt động trở lại
+    - chỉnh dây hụi dây mãn hoạt động trở lại
+    - chuyễn dây hụi mản
+    - chuyễn lại dây hụi mản
+    - chuyễn lại dây hụi bị mản
+    - chuyễn dây hụi bị mản trở lại đang hoạt động
+    - chuyển dây hụi mản
+    - chuyển lại dây hụi mản
+    - chuyển lại dây hụi bị mản
+    - chuyển dây hụi bị mản trở lại đang hoạt động
+    - chuyển hụi mãn hoạt động lại
+    - chuyển lại dây hụi mãn hoạt động trở lại
+    - chuyển hụi mãn hoạt động trở lại
+    - chuyển dây hụi dây mãn hoạt động trở lại
+    - đưa hụi mãn hoạt động lại
+    - đưa lại dây hụi mãn hoạt động trở lại
+    - đưa hụi mãn hoạt động trở lại
+    - đưa dây hụi dây mãn hoạt động trở lại
+    - đưa dây hụi mản
+    - đưa lại dây hụi mản
+    - đưa lại dây hụi bị mản
+    - đưa dây hụi bị mản trở lại đang hoạt động
+    - sửa dây hụi mản
+    - sửa lại dây hụi mản
+    - sửa lại dây hụi bị mản
+    - sửa dây hụi bị mản trở lại đang hoạt động
+    - sửa hụi mãn hoạt động lại
+    - sửa lại dây hụi mãn hoạt động trở lại
+    - sửa hụi mãn hoạt động trở lại
+    - sửa dây hụi dây mãn hoạt động trở lại
+
+- synonym: mãn dây hụi
+  examples: |
+    - mãn lại dây hụi
+    - mãn hụi
+    - mãn lại hụi
+    - mản dây hụi
+    - mản lại dây hụi
+    - mản hụi
+    - mản lại hụi
 
 - synonym: xóa kỳ hốt
   examples: |
@@ -978,6 +2310,480 @@ nlu:
     - giảm bớt kỳ hốt
     - đóng bớt kỳ hốt
     - xóa bớt kỳ hốt
+    - giảm kì hốt
+    - bớt kì hốt
+    - đóng kì hốt
+    - giảm bớt kì hốt
+    - đóng bớt kì hốt
+    - xóa bớt kì hốt
+    - giảm hốt
+    - bớt hốt
+    - đóng hốt
+    - giảm bớt hốt
+    - đóng bớt hốt
+    - xóa bớt hốt
+    - giảm hốt
+    - bớt hốt
+    - đóng hốt
+    - giảm bớt hốt
+    - đóng bớt hốt
+    - xóa bớt hốt
+    - giảm kỳ hốt hụi
+    - bớt kỳ hốt hụi
+    - đóng kỳ hốt hụi
+    - giảm bớt kỳ hốt hụi
+    - đóng bớt kỳ hốt hụi
+    - xóa bớt kỳ hốt hụi
+    - giảm kì hốt hụi
+    - bớt kì hốt hụi
+    - đóng kì hốt hụi
+    - giảm bớt kì hốt hụi
+    - đóng bớt kì hốt hụi
+    - xóa bớt kì hốt hụi
+    - giảm hốt hụi
+    - bớt hốt hụi
+    - đóng hốt hụi
+    - giảm bớt hốt hụi
+    - đóng bớt hốt hụi
+    - xóa bớt hốt hụi
+    - giảm hốt hụi
+    - bớt hốt hụi
+    - đóng hốt hụi
+    - giảm bớt hốt hụi
+    - đóng bớt hốt hụi
+    - xóa bớt hốt hụi
+    - giảm kỳ bốc
+    - bớt kỳ bốc
+    - đóng kỳ bốc
+    - giảm bớt kỳ bốc
+    - đóng bớt kỳ bốc
+    - xóa bớt kỳ bốc
+    - giảm kì bốc
+    - bớt kì bốc
+    - đóng kì bốc
+    - giảm bớt kì bốc
+    - đóng bớt kì bốc
+    - xóa bớt kì bốc
+    - giảm bốc
+    - bớt bốc
+    - đóng bốc
+    - giảm bớt bốc
+    - đóng bớt bốc
+    - xóa bớt bốc
+    - giảm bốc
+    - bớt bốc
+    - đóng bốc
+    - giảm bớt bốc
+    - đóng bớt bốc
+    - xóa bớt bốc
+    - giảm kỳ bốc hụi
+    - bớt kỳ bốc hụi
+    - đóng kỳ bốc hụi
+    - giảm bớt kỳ bốc hụi
+    - đóng bớt kỳ bốc hụi
+    - xóa bớt kỳ bốc hụi
+    - giảm kì bốc hụi
+    - bớt kì bốc hụi
+    - đóng kì bốc hụi
+    - giảm bớt kì bốc hụi
+    - đóng bớt kì bốc hụi
+    - xóa bớt kì bốc hụi
+    - giảm bốc hụi
+    - bớt bốc hụi
+    - đóng bốc hụi
+    - giảm bớt bốc hụi
+    - đóng bớt bốc hụi
+    - xóa bớt bốc hụi
+    - giảm bốc hụi
+    - bớt bốc hụi
+    - đóng bốc hụi
+    - giảm bớt bốc hụi
+    - đóng bớt bốc hụi
+    - xóa bớt bốc hụi
+    - giảm kỳ bóc
+    - bớt kỳ bóc
+    - đóng kỳ bóc
+    - giảm bớt kỳ bóc
+    - đóng bớt kỳ bóc
+    - xóa bớt kỳ bóc
+    - giảm kì bóc
+    - bớt kì bóc
+    - đóng kì bóc
+    - giảm bớt kì bóc
+    - đóng bớt kì bóc
+    - xóa bớt kì bóc
+    - giảm bóc
+    - bớt bóc
+    - đóng bóc
+    - giảm bớt bóc
+    - đóng bớt bóc
+    - xóa bớt bóc
+    - giảm bóc
+    - bớt bóc
+    - đóng bóc
+    - giảm bớt bóc
+    - đóng bớt bóc
+    - xóa bớt bóc
+    - giảm kỳ bóc hụi
+    - bớt kỳ bóc hụi
+    - đóng kỳ bóc hụi
+    - giảm bớt kỳ bóc hụi
+    - đóng bớt kỳ bóc hụi
+    - xóa bớt kỳ bóc hụi
+    - giảm kì bóc hụi
+    - bớt kì bóc hụi
+    - đóng kì bóc hụi
+    - giảm bớt kì bóc hụi
+    - đóng bớt kì bóc hụi
+    - xóa bớt kì bóc hụi
+    - giảm bóc hụi
+    - bớt bóc hụi
+    - đóng bóc hụi
+    - giảm bớt bóc hụi
+    - đóng bớt bóc hụi
+    - xóa bớt bóc hụi
+    - giảm bóc hụi
+    - bớt bóc hụi
+    - đóng bóc hụi
+    - giảm bớt bóc hụi
+    - đóng bớt bóc hụi
+    - xóa bớt bóc hụi
+    - giảm kỳ hót
+    - bớt kỳ hót
+    - đóng kỳ hót
+    - giảm bớt kỳ hót
+    - đóng bớt kỳ hót
+    - xóa bớt kỳ hót
+    - giảm kì hót
+    - bớt kì hót
+    - đóng kì hót
+    - giảm bớt kì hót
+    - đóng bớt kì hót
+    - xóa bớt kì hót
+    - giảm hót
+    - bớt hót
+    - đóng hót
+    - giảm bớt hót
+    - đóng bớt hót
+    - xóa bớt hót
+    - giảm hót
+    - bớt hót
+    - đóng hót
+    - giảm bớt hót
+    - đóng bớt hót
+    - xóa bớt hót
+    - giảm kỳ hót hụi
+    - bớt kỳ hót hụi
+    - đóng kỳ hót hụi
+    - giảm bớt kỳ hót hụi
+    - đóng bớt kỳ hót hụi
+    - xóa bớt kỳ hót hụi
+    - giảm kì hót hụi
+    - bớt kì hót hụi
+    - đóng kì hót hụi
+    - giảm bớt kì hót hụi
+    - đóng bớt kì hót hụi
+    - xóa bớt kì hót hụi
+    - giảm hót hụi
+    - bớt hót hụi
+    - đóng hót hụi
+    - giảm bớt hót hụi
+    - đóng bớt hót hụi
+    - xóa bớt hót hụi
+    - giảm hót hụi
+    - bớt hót hụi
+    - đóng hót hụi
+    - giảm bớt hót hụi
+    - đóng bớt hót hụi
+    - xóa bớt hót hụi
+    - giảm kỳ hóc
+    - bớt kỳ hóc
+    - đóng kỳ hóc
+    - giảm bớt kỳ hóc
+    - đóng bớt kỳ hóc
+    - xóa bớt kỳ hóc
+    - giảm kì hóc
+    - bớt kì hóc
+    - đóng kì hóc
+    - giảm bớt kì hóc
+    - đóng bớt kì hóc
+    - xóa bớt kì hóc
+    - giảm hóc
+    - bớt hóc
+    - đóng hóc
+    - giảm bớt hóc
+    - đóng bớt hóc
+    - xóa bớt hóc
+    - giảm hóc
+    - bớt hóc
+    - đóng hóc
+    - giảm bớt hóc
+    - đóng bớt hóc
+    - xóa bớt hóc
+    - giảm kỳ hóc hụi
+    - bớt kỳ hóc hụi
+    - đóng kỳ hóc hụi
+    - giảm bớt kỳ hóc hụi
+    - đóng bớt kỳ hóc hụi
+    - xóa bớt kỳ hóc hụi
+    - giảm kì hóc hụi
+    - bớt kì hóc hụi
+    - đóng kì hóc hụi
+    - giảm bớt kì hóc hụi
+    - đóng bớt kì hóc hụi
+    - xóa bớt kì hóc hụi
+    - giảm hóc hụi
+    - bớt hóc hụi
+    - đóng hóc hụi
+    - giảm bớt hóc hụi
+    - đóng bớt hóc hụi
+    - xóa bớt hóc hụi
+    - giảm hóc hụi
+    - bớt hóc hụi
+    - đóng hóc hụi
+    - giảm bớt hóc hụi
+    - đóng bớt hóc hụi
+    - xóa bớt hóc hụi
+    - giảm kỳ hốc
+    - bớt kỳ hốc
+    - đóng kỳ hốc
+    - giảm bớt kỳ hốc
+    - đóng bớt kỳ hốc
+    - xóa bớt kỳ hốc
+    - giảm kì hốc
+    - bớt kì hốc
+    - đóng kì hốc
+    - giảm bớt kì hốc
+    - đóng bớt kì hốc
+    - xóa bớt kì hốc
+    - giảm hốc
+    - bớt hốc
+    - đóng hốc
+    - giảm bớt hốc
+    - đóng bớt hốc
+    - xóa bớt hốc
+    - giảm hốc
+    - bớt hốc
+    - đóng hốc
+    - giảm bớt hốc
+    - đóng bớt hốc
+    - xóa bớt hốc
+    - giảm kỳ hốc hụi
+    - bớt kỳ hốc hụi
+    - đóng kỳ hốc hụi
+    - giảm bớt kỳ hốc hụi
+    - đóng bớt kỳ hốc hụi
+    - xóa bớt kỳ hốc hụi
+    - giảm kì hốc hụi
+    - bớt kì hốc hụi
+    - đóng kì hốc hụi
+    - giảm bớt kì hốc hụi
+    - đóng bớt kì hốc hụi
+    - xóa bớt kì hốc hụi
+    - giảm hốc hụi
+    - bớt hốc hụi
+    - đóng hốc hụi
+    - giảm bớt hốc hụi
+    - đóng bớt hốc hụi
+    - xóa bớt hốc hụi
+    - giảm hốc hụi
+    - bớt hốc hụi
+    - đóng hốc hụi
+    - giảm bớt hốc hụi
+    - đóng bớt hốc hụi
+    - xóa bớt hốc hụi
+    - giảm kỳ lấy
+    - bớt kỳ lấy
+    - đóng kỳ lấy
+    - giảm bớt kỳ lấy
+    - đóng bớt kỳ lấy
+    - xóa bớt kỳ lấy
+    - giảm kì lấy
+    - bớt kì lấy
+    - đóng kì lấy
+    - giảm bớt kì lấy
+    - đóng bớt kì lấy
+    - xóa bớt kì lấy
+    - giảm lấy
+    - bớt lấy
+    - đóng lấy
+    - giảm bớt lấy
+    - đóng bớt lấy
+    - xóa bớt lấy
+    - giảm lấy
+    - bớt lấy
+    - đóng lấy
+    - giảm bớt lấy
+    - đóng bớt lấy
+    - xóa bớt lấy
+    - giảm kỳ lấy hụi
+    - bớt kỳ lấy hụi
+    - đóng kỳ lấy hụi
+    - giảm bớt kỳ lấy hụi
+    - đóng bớt kỳ lấy hụi
+    - xóa bớt kỳ lấy hụi
+    - giảm kì lấy hụi
+    - bớt kì lấy hụi
+    - đóng kì lấy hụi
+    - giảm bớt kì lấy hụi
+    - đóng bớt kì lấy hụi
+    - xóa bớt kì lấy hụi
+    - giảm lấy hụi
+    - bớt lấy hụi
+    - đóng lấy hụi
+    - giảm bớt lấy hụi
+    - đóng bớt lấy hụi
+    - xóa bớt lấy hụi
+    - giảm lấy hụi
+    - bớt lấy hụi
+    - đóng lấy hụi
+    - giảm bớt lấy hụi
+    - đóng bớt lấy hụi
+    - xóa bớt lấy hụi
+    - giảm kỳ gom
+    - bớt kỳ gom
+    - đóng kỳ gom
+    - giảm bớt kỳ gom
+    - đóng bớt kỳ gom
+    - xóa bớt kỳ gom
+    - giảm kì gom
+    - bớt kì gom
+    - đóng kì gom
+    - giảm bớt kì gom
+    - đóng bớt kì gom
+    - xóa bớt kì gom
+    - giảm gom
+    - bớt gom
+    - đóng gom
+    - giảm bớt gom
+    - đóng bớt gom
+    - xóa bớt gom
+    - giảm gom
+    - bớt gom
+    - đóng gom
+    - giảm bớt gom
+    - đóng bớt gom
+    - xóa bớt gom
+    - giảm kỳ gom hụi
+    - bớt kỳ gom hụi
+    - đóng kỳ gom hụi
+    - giảm bớt kỳ gom hụi
+    - đóng bớt kỳ gom hụi
+    - xóa bớt kỳ gom hụi
+    - giảm kì gom hụi
+    - bớt kì gom hụi
+    - đóng kì gom hụi
+    - giảm bớt kì gom hụi
+    - đóng bớt kì gom hụi
+    - xóa bớt kì gom hụi
+    - giảm gom hụi
+    - bớt gom hụi
+    - đóng gom hụi
+    - giảm bớt gom hụi
+    - đóng bớt gom hụi
+    - xóa bớt gom hụi
+    - giảm gom hụi
+    - bớt gom hụi
+    - đóng gom hụi
+    - giảm bớt gom hụi
+    - đóng bớt gom hụi
+    - xóa bớt gom hụi
+    - giảm kỳ gôm
+    - bớt kỳ gôm
+    - đóng kỳ gôm
+    - giảm bớt kỳ gôm
+    - đóng bớt kỳ gôm
+    - xóa bớt kỳ gôm
+    - giảm kì gôm
+    - bớt kì gôm
+    - đóng kì gôm
+    - giảm bớt kì gôm
+    - đóng bớt kì gôm
+    - xóa bớt kì gôm
+    - giảm gôm
+    - bớt gôm
+    - đóng gôm
+    - giảm bớt gôm
+    - đóng bớt gôm
+    - xóa bớt gôm
+    - giảm gôm
+    - bớt gôm
+    - đóng gôm
+    - giảm bớt gôm
+    - đóng bớt gôm
+    - xóa bớt gôm
+    - giảm kỳ gôm hụi
+    - bớt kỳ gôm hụi
+    - đóng kỳ gôm hụi
+    - giảm bớt kỳ gôm hụi
+    - đóng bớt kỳ gôm hụi
+    - xóa bớt kỳ gôm hụi
+    - giảm kì gôm hụi
+    - bớt kì gôm hụi
+    - đóng kì gôm hụi
+    - giảm bớt kì gôm hụi
+    - đóng bớt kì gôm hụi
+    - xóa bớt kì gôm hụi
+    - giảm gôm hụi
+    - bớt gôm hụi
+    - đóng gôm hụi
+    - giảm bớt gôm hụi
+    - đóng bớt gôm hụi
+    - xóa bớt gôm hụi
+    - giảm gôm hụi
+    - bớt gôm hụi
+    - đóng gôm hụi
+    - giảm bớt gôm hụi
+    - đóng bớt gôm hụi
+    - xóa bớt gôm hụi
+    - giảm kỳ khui
+    - bớt kỳ khui
+    - đóng kỳ khui
+    - giảm bớt kỳ khui
+    - đóng bớt kỳ khui
+    - xóa bớt kỳ khui
+    - giảm kì khui
+    - bớt kì khui
+    - đóng kì khui
+    - giảm bớt kì khui
+    - đóng bớt kì khui
+    - xóa bớt kì khui
+    - giảm khui
+    - bớt khui
+    - đóng khui
+    - giảm bớt khui
+    - đóng bớt khui
+    - xóa bớt khui
+    - giảm khui
+    - bớt khui
+    - đóng khui
+    - giảm bớt khui
+    - đóng bớt khui
+    - xóa bớt khui
+    - giảm kỳ khui hụi
+    - bớt kỳ khui hụi
+    - đóng kỳ khui hụi
+    - giảm bớt kỳ khui hụi
+    - đóng bớt kỳ khui hụi
+    - xóa bớt kỳ khui hụi
+    - giảm kì khui hụi
+    - bớt kì khui hụi
+    - đóng kì khui hụi
+    - giảm bớt kì khui hụi
+    - đóng bớt kì khui hụi
+    - xóa bớt kì khui hụi
+    - giảm khui hụi
+    - bớt khui hụi
+    - đóng khui hụi
+    - giảm bớt khui hụi
+    - đóng bớt khui hụi
+    - xóa bớt khui hụi
+    - giảm khui hụi
+    - bớt khui hụi
+    - đóng khui hụi
+    - giảm bớt khui hụi
+    - đóng bớt khui hụi
+    - xóa bớt khui hụi
 
 - synonym: xóa kỳ đóng bị lỗi
   examples: |
@@ -986,6 +2792,101 @@ nlu:
     - đóng kỳ đóng lỗi
     - đóng bớt kỳ đóng bị lỗi
     - đóng bớt kỳ đóng lỗi
+    - đóng kỳ trả bị lỗi
+    - xóa kỳ trả lỗi
+    - đóng kỳ trả lỗi
+    - đóng bớt kỳ trả bị lỗi
+    - đóng bớt kỳ trả lỗi
+    - đóng kỳ trả tiền bị lỗi
+    - xóa kỳ trả tiền lỗi
+    - đóng kỳ trả tiền lỗi
+    - đóng bớt kỳ trả tiền bị lỗi
+    - đóng bớt kỳ trả tiền lỗi
+    - đóng kỳ chi bị lỗi
+    - xóa kỳ chi lỗi
+    - đóng kỳ chi lỗi
+    - đóng bớt kỳ chi bị lỗi
+    - đóng bớt kỳ chi lỗi
+    - đóng kỳ thanh toán bị lỗi
+    - xóa kỳ thanh toán lỗi
+    - đóng kỳ thanh toán lỗi
+    - đóng bớt kỳ thanh toán bị lỗi
+    - đóng bớt kỳ thanh toán lỗi
+    - bỏ kỳ đóng bị lỗi
+    - bỏ kỳ đóng lỗi
+    - bỏ bớt kỳ đóng bị lỗi
+    - bỏ bớt kỳ đóng lỗi
+    - bỏ kỳ trả bị lỗi
+    - bỏ kỳ trả lỗi
+    - bỏ bớt kỳ trả bị lỗi
+    - bỏ bớt kỳ trả lỗi
+    - bỏ kỳ trả tiền bị lỗi
+    - bỏ kỳ trả tiền lỗi
+    - bỏ bớt kỳ trả tiền bị lỗi
+    - bỏ bớt kỳ trả tiền lỗi
+    - bỏ kỳ chi bị lỗi
+    - bỏ kỳ chi lỗi
+    - bỏ bớt kỳ chi bị lỗi
+    - bỏ bớt kỳ chi lỗi
+    - bỏ kỳ thanh toán bị lỗi
+    - bỏ kỳ thanh toán lỗi
+    - bỏ bớt kỳ thanh toán bị lỗi
+    - bỏ bớt kỳ thanh toán lỗi
+    - hủy kỳ đóng bị lỗi
+    - hủy kỳ đóng lỗi
+    - hủy bớt kỳ đóng bị lỗi
+    - hủy bớt kỳ đóng lỗi
+    - hủy kỳ trả bị lỗi
+    - hủy kỳ trả lỗi
+    - hủy bớt kỳ trả bị lỗi
+    - hủy bớt kỳ trả lỗi
+    - hủy kỳ trả tiền bị lỗi
+    - hủy kỳ trả tiền lỗi
+    - hủy bớt kỳ trả tiền bị lỗi
+    - hủy bớt kỳ trả tiền lỗi
+    - hủy kỳ chi bị lỗi
+    - hủy kỳ chi lỗi
+    - hủy bớt kỳ chi bị lỗi
+    - hủy bớt kỳ chi lỗi
+    - hủy kỳ thanh toán bị lỗi
+    - hủy kỳ thanh toán lỗi
+    - hủy bớt kỳ thanh toán bị lỗi
+    - hủy bớt kỳ thanh toán lỗi
+
+- synonym: xác nhận đóng tất cả hụi
+  examples: |
+    - xác nhận thanh toán tất cả hụi
+    - xác nhận chi tất cả hụi
+    - xác nhận thanh toán tất cả hụi
+    - xác nhận trả tất cả hụi
+    - xác nhận thanh toán tất cả tiền hụi
+    - xác nhận chi tất cả tiền hụi
+    - xác nhận thanh toán tất cả tiền hụi
+    - xác nhận trả tất cả tiền hụi
+    - xác nhận thanh toán tiền tất cả hụi
+    - xác nhận chi tiền tất cả hụi
+    - xác nhận thanh toán tiền tất cả hụi
+    - xác nhận trả tiền tất cả hụi
+    - xác nhận thanh toán tiền tất cả tiền hụi
+    - xác nhận chi tiền tất cả tiền hụi
+    - xác nhận thanh toán tiền tất cả tiền hụi
+    - xác nhận trả tiền tất cả tiền hụi
+    - đồng ý thanh toán tất cả hụi
+    - đồng ý chi tất cả hụi
+    - đồng ý thanh toán tất cả hụi
+    - đồng ý trả tất cả hụi
+    - đồng ý thanh toán tất cả tiền hụi
+    - đồng ý chi tất cả tiền hụi
+    - đồng ý thanh toán tất cả tiền hụi
+    - đồng ý trả tất cả tiền hụi
+    - đồng ý thanh toán tiền tất cả hụi
+    - đồng ý chi tiền tất cả hụi
+    - đồng ý thanh toán tiền tất cả hụi
+    - đồng ý trả tiền tất cả hụi
+    - đồng ý thanh toán tiền tất cả tiền hụi
+    - đồng ý chi tiền tất cả tiền hụi
+    - đồng ý thanh toán tiền tất cả tiền hụi
+    - đồng ý trả tiền tất cả tiền hụi
 
 - synonym: cân bằng âm dương
   examples: |
@@ -993,16 +2894,35 @@ nlu:
     - cân bằng âm dương cho hụi viên
     - cân bằng lại âm dương của hụi viên
     - cân bằng lại âm dương cho hụi viên
+    - điều chỉnh âm dương
     - điều chỉnh âm dương của hụi viên
     - điều chỉnh âm dương cho hụi viên
     - điều chỉnh lại âm dương của hụi viên
     - điều chỉnh lại âm dương cho hụi viên
+    - cân bằng âm dương của thành viên
+    - cân bằng âm dương cho thành viên
+    - cân bằng lại âm dương của thành viên
+    - cân bằng lại âm dương cho thành viên
+    - điều chỉnh âm dương
+    - điều chỉnh âm dương của thành viên
+    - điều chỉnh âm dương cho thành viên
+    - điều chỉnh lại âm dương của thành viên
+    - điều chỉnh lại âm dương cho thành viên
 
 - regex: ở đâu
-  examples: |
-    - nằm ở đâu|ở chỗ nào|chỗ nào
+  pattern: "cách (nằm ở đâu|ở chỗ nào|chỗ nào)"
 
 - regex: cách
-  examples: |
-    - cách để
-    - cách thức
+  pattern: "cách (để|thức|thức để)"
+
+- regex: không
+  pattern: "không (ko|0|khôg|khog|khg|kg|khong|kôg|kog)"
+
+- regex: vậy
+  pattern: "vậy (zậy|vâị|dị|dâị)"
+
+- regex: được
+  pattern: "được (đc|dc|duoc)"
+
+- regex: thành một
+  pattern: "thành một (thành 1|về một|về 1)"

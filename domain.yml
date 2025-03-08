@@ -20,7 +20,7 @@ entities:
 slots:
   actions:
     type: text
-    influence_conversation: false
+    influence_conversation: true
     mappings:
       - type: from_entity
         entity: action
@@ -28,6 +28,8 @@ slots:
 actions:
   - action_provide_guide
   - action_answer_duration
+  - action_reset_slots
+  - action_handle_unknown_question
 
 session_config:
   session_expiration_time: 60

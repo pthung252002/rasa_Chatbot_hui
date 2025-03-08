@@ -21,7 +21,7 @@ rules:
   steps:
   - intent: bye
   - action: action_reset_slots
-  - action:
+  - action: utter_Bye
 
 - rule: fall_back_intent
   steps:
