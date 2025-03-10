@@ -6,12 +6,15 @@ nlu:
     - anh ơi
     - bạn ơi
     - em ơi
+    - chị oi
+    - bạn oi
     - ê
     - xin chào
     - cho tôi hỏi
     - cho em hỏi
     - cho mình hỏi
     - cho bên anh hỏi
+    - cho bên chị hỏi
     - này
     - chào
     - xin chào
@@ -22,6 +25,7 @@ nlu:
   examples: |
     - tạm biệt
     - hẹn gặp lại
+    - bye
 
 - intent: ask_actions
   examples: |
@@ -852,6 +856,10 @@ nlu:
     - tạo hụi mới
     - tạo dây hụi mới
     - tạo thêm dây hụi mới
+    - tạo quỹ dây hụi
+    - tạo quỹ hụi
+    - tạo quỹ dây hụi mới
+    - tạo quỹ hụi mới
     - thêm hụi mới
     - mở dây hụi
     - mở hụi
@@ -861,7 +869,28 @@ nlu:
     - mở hụi mới
     - mở dây hụi mới
     - mở thêm dây hụi mới
-    - mở hụi mới
+    - mở hụi 
+    - tổ chức dây hụi
+    - tổ chức hụi
+    - tổ chức dây hụi mới
+    - tổ chức hụi mới
+    - mở tổ chức dây hụi
+    - mở tổ chức hụi
+    - mở tổ chức dây hụi mới
+    - lập dây hụi
+    - lập hụi
+    - lập dây hụi mới
+    - lập hụi mới
+    - xây dựng dây hụi
+    - xây dựng hụi
+    - xây dựng dây hụi mới
+    - xây dựng hụi mới
+    - xây dựng nhóm hụi
+    - xây dựng nhóm hụi mới
+    - hình thành dây hụi
+    - hình thành hụi
+    - hình thành dây hụi mới
+    - hình thành hụi mới
 
 - synonym: đóng hụi
   examples: |
@@ -879,6 +908,21 @@ nlu:
     - trả tiền
     - thanh toán tiền
     - tính tiền
+    - góp quỹ hụi
+    - góp tiền quỹ hụi
+    - đóng quỹ hụi
+    - đóng tiền quỹ hụi
+    - trả tiền quỹ hụi
+    - trả quỹ hụi
+    - thanh toán quỹ hụi
+    - thanh toán tiền quỹ hụi
+    - tính tiền quỹ hụi
+    - chung tiền quỹ hụi
+    - chung tiền hụi
+    - gửi tiền quỹ hụi
+    - gửi tiền  hụi
+    - tham gia hụi
+    - tham gia quỹ hụi
 
 - synonym: tất toán hụi chết
   examples: |
@@ -888,10 +932,143 @@ nlu:
     - tất toán tiền dây hụi chết
     - tất toán tiền của dây hụi chết
     - tất toán dây hụi đã chết
-    - tất toán tiền hụi đã  chết
+    - tất toán tiền hụi đã chết
     - tất toán tiền của hụi đã chết
     - tất toán tiền dây hụi đã chết
     - tất toán tiền của dây hụi đã chết
+    - tất toán dây quỹ hụi chết
+    - tất toán tiền quỹ hụi chết
+    - tất toán tiền của quỹ hụi chết
+    - tất toán tiền dây quỹ hụi chết
+    - tất toán tiền của dây quỹ hụi chết
+    - tất toán dây quỹ hụi đã chết
+    - tất toán tiền quỹ hụi đã chết
+    - tất toán tiền của xuy hụi đã chết
+    - tất toán tiền dây quỹ hụi đã chết
+    - tất toán tiền của dây quỹ hụi đã chết
+    - kết thúc hụi
+    - kết thúc hụi chết
+    - kết thúc quỹ hụi chết
+    - kết thúc dây hụi chết
+    - kết thúc dây quỹ hụi chết
+    - kết thúc hụi đã chết
+    - kết thúc quỹ hụi đã chết
+    - kết thúc dây hụi đã chết
+    - kết thúc dây quỹ hụi đã chết
+    - kết thúc của dây hụi đã chết
+    - kết thúc tiền của dây hụi đã chết
+    - kết thúc của dây quỹ hụi đã chết
+    - kết thúc tiền của dây quỹ hụi đã chết
+    - kết thúc dây hụi chết
+    - kết thúc tiền hụi chết
+    - kết thúc tiền của dây hụi chết
+    - kết thúc cho dây hụi đã chết
+    - kết thúc cho dây hụi đã chết
+    - kết thúc tiền cho hụi đã chết
+    - kết thúc tiền cho dây hụi đã chết
+    - kết thúc cho dây quỹ hụi chết
+    - kết thúc tiền cho quỹ hụi chết
+    - kết thúc tiền cho dây quỹ hụi chết
+    - kết thúc cho dây quỹ hụi đã chết
+    - kết thúc tiền cho quỹ hụi đã chết
+    - kết thúc tiền cho dây quỹ hụi đã chết
+    - thanh lý hụi
+    - thanh lý hụi chết
+    - thanh lý quỹ hụi chết
+    - thanh lý dây hụi chết
+    - thanh lý dây quỹ hụi chết
+    - thanh lý hụi đã chết
+    - thanh lý quỹ hụi đã chết
+    - thanh lý dây hụi đã chết
+    - thanh lý dây quỹ hụi đã chết
+    - thanh lý của dây hụi đã chết
+    - thanh lý tiền của dây hụi đã chết
+    - thanh lý của dây quỹ hụi đã chết
+    - thanh lý tiền của dây quỹ hụi đã chết
+    - thanh lý dây hụi chết
+    - thanh lý tiền hụi chết
+    - thanh lý tiền của dây hụi chết
+    - thanh lý cho dây hụi đã chết
+    - thanh lý cho dây hụi đã chết
+    - thanh lý tiền cho hụi đã chết
+    - thanh lý tiền cho dây hụi đã chết
+    - thanh lý cho dây quỹ hụi chết
+    - thanh lý tiền cho quỹ hụi chết
+    - thanh lý tiền cho dây quỹ hụi chết
+    - thanh lý cho dây quỹ hụi đã chết
+    - thanh lý tiền cho quỹ hụi đã chết
+    - thanh lý tiền cho dây quỹ hụi đã chết
+    - giải quyết hụi
+    - giải quyết hụi chết
+    - giải quyết quỹ hụi chết
+    - giải quyết dây hụi chết
+    - giải quyết dây quỹ hụi chết
+    - giải quyết hụi đã chết
+    - giải quyết quỹ hụi đã chết
+    - giải quyết dây hụi đã chết
+    - giải quyết dây quỹ hụi đã chết
+    - giải quyết của dây hụi đã chết
+    - giải quyết tiền của dây hụi đã chết
+    - giải quyết của dây quỹ hụi đã chết
+    - giải quyết tiền của dây quỹ hụi đã chết
+    - giải quyết dây hụi chết
+    - giải quyết tiền hụi chết
+    - giải quyết tiền của dây hụi chết
+    - giải quyết cho dây hụi đã chết
+    - giải quyết cho dây hụi đã chết
+    - giải quyết tiền cho hụi đã chết
+    - giải quyết tiền cho dây hụi đã chết
+    - giải quyết cho dây quỹ hụi chết
+    - giải quyết tiền cho quỹ hụi chết
+    - giải quyết tiền cho dây quỹ hụi chết
+    - giải quyết cho dây quỹ hụi đã chết
+    - giải quyết tiền cho quỹ hụi đã chết
+    - giải quyết tiền cho dây quỹ hụi đã chết
+    - kết toán hụi
+    - kết toán hụi chết
+    - kết toán quỹ hụi chết
+    - kết toán dây hụi chết
+    - kết toán dây quỹ hụi chết
+    - kết toán hụi đã chết
+    - kết toán quỹ hụi đã chết
+    - kết toán dây hụi đã chết
+    - kết toán dây quỹ hụi đã chết
+    - kết toán của dây hụi đã chết
+    - kết toán tiền của dây hụi đã chết
+    - kết toán của dây quỹ hụi đã chết
+    - kết toán tiền của dây quỹ hụi đã chết
+    - kết toán dây hụi chết
+    - kết toán tiền hụi chết
+    - kết toán tiền của dây hụi chết
+    - kết toán cho dây hụi đã chết
+    - kết toán cho dây hụi đã chết
+    - kết toán tiền cho hụi đã chết
+    - kết toán tiền cho dây hụi đã chết
+    - kết toán cho dây quỹ hụi chết
+    - kết toán tiền cho quỹ hụi chết
+    - kết toán tiền cho dây quỹ hụi chết
+    - kết toán cho dây quỹ hụi đã chết
+    - kết toán tiền cho quỹ hụi đã chết
+    - kết toán tiền cho dây quỹ hụi đã chết
+    - đóng vĩnh viễn hụi chết
+    - đóng vĩnh viễn quỹ hụi chết
+    - đóng vĩnh viễn dây hụi chết
+    - đóng vĩnh viễn dây quỹ hụi chết
+    - đóng vĩnh viễn hụi đã chết
+    - đóng vĩnh viễn quỹ hụi đã chết
+    - đóng vĩnh viễn dây hụi đã chết
+    - đóng vĩnh viễn dây quỹ hụi đã chết
+    - đóng vĩnh viễn của dây hụi đã chết
+    - đóng vĩnh viễn tiền của dây hụi đã chết
+    - đóng vĩnh viễn của dây quỹ hụi đã chết
+    - đóng vĩnh viễn tiền của dây quỹ hụi đã chết
+    - đóng vĩnh viễn dây hụi chết
+    - đóng vĩnh viễn tiền hụi chết
+    - đóng vĩnh viễn tiền của dây hụi chết
+    - đóng vĩnh viễn cho dây hụi đã chết
+    - đóng vĩnh viễn cho dây hụi đã chết
+    - đóng vĩnh viễn cho dây quỹ hụi chết
+    - đóng vĩnh viễn cho dây quỹ hụi đã chết
 
 - synonym: in tất cả bill đóng trong ngày
   examples: |
@@ -1692,6 +1869,20 @@ nlu:
     - tạo thêm số phần hụi trong dây
     - tạo thêm phần hụi trong dây hụi
     - tạo thêm phần hụi
+    - tăng số phần hụi trong nhóm hụi
+    - tăng thêm số phần hụi trong nhóm hụi
+    - tăng số phần hụi trong dây hụi
+    - tăng thêm số phần hụi trong dây hụi
+    - thêm phần hụi vào dây hụi
+    - thêm phần hụi vào nhóm hụi
+    - cộng thêm phần hụi trong dây hụi
+    - cộng phần hụi trong dây hụi
+    - cộng thêm phần hụi trong nhóm hụi
+    - cộng phần hụi trong nhóm hụi
+    - mở rộng số phần hụi trong nhóm hụi
+    - mở rộng thêm số phần hụi trong nhóm hụi
+    - mở rộng số phần hụi trong dây hụi
+    - mở rộng thêm số phần hụi trong dây hụi
 
 - synonym: giảm số phần hụi trong dây hụi
   examples: |
@@ -1707,57 +1898,11 @@ nlu:
     - giảm bớt số phần hụi
     - xóa bớt số phần hụi
     - bỏ bớt số phần hụi
-
-- synonym: hốt hụi nhiều người cùng kỳ
-  examples: |
-    - hốt hụi nhiều người
-    - hốt hụi nhiều người chung kỳ
-    - hốt hụi nhiều người giống kỳ
-    - hốt hụi nhiều người chung một kỳ
-    - hốc hụi nhiều người
-    - hốc hụi nhiều người chung kỳ
-    - hốc hụi nhiều người giống kỳ
-    - hốc hụi nhiều người chung một kỳ
-    - lấy hụi nhiều người
-    - lấy hụi nhiều người chung kỳ
-    - lấy hụi nhiều người giống kỳ
-    - lấy hụi nhiều người chung một kỳ
-    - gom hụi nhiều người
-    - gom hụi nhiều người chung kỳ
-    - gom hụi nhiều người giống kỳ
-    - gom hụi nhiều người chung một kỳ
-    - gôm hụi nhiều người
-    - gôm hụi nhiều người chung kỳ
-    - gôm hụi nhiều người giống kỳ
-    - gôm hụi nhiều người chung một kỳ
-    - khui hụi nhiều người
-    - khui hụi nhiều người chung kỳ
-    - khui hụi nhiều người giống kỳ
-    - khui hụi nhiều người chung một kỳ
-    - hốt tiền hụi nhiều người
-    - hốt tiền hụi nhiều người chung kỳ
-    - hốt tiền hụi nhiều người giống kỳ
-    - hốt tiền hụi nhiều người chung một kỳ
-    - hốc tiền hụi nhiều người
-    - hốc tiền hụi nhiều người chung kỳ
-    - hốc tiền hụi nhiều người giống kỳ
-    - hốc tiền hụi nhiều người chung một kỳ
-    - tiền tiền hụi nhiều người
-    - tiền tiền hụi nhiều người chung kỳ
-    - tiền tiền hụi nhiều người giống kỳ
-    - tiền tiền hụi nhiều người chung một kỳ
-    - gom tiền hụi nhiều người
-    - gom tiền hụi nhiều người chung kỳ
-    - gom tiền hụi nhiều người giống kỳ
-    - gom tiền hụi nhiều người chung một kỳ
-    - gôm tiền hụi nhiều người
-    - gôm tiền hụi nhiều người chung kỳ
-    - gôm tiền hụi nhiều người giống kỳ
-    - gôm tiền hụi nhiều người chung một kỳ
-    - khui tiền hụi nhiều người
-    - khui tiền hụi nhiều người chung kỳ
-    - khui tiền hụi nhiều người giống kỳ
-    - khui tiền hụi nhiều người chung một kỳ
+    - giảm số phần hụi trong nhóm hụi
+    - giảm bớt phần hụi trong dây hụi
+    - cắt giảm số phần hụi trong nhóm hụi
+    - cắt giảm số phần hụi trong dây hụi
+    - rút bớt phần hụi trong dây hụi
 
 - synonym: thay đổi hụi viên trong dây hụi
   examples: |
@@ -2179,6 +2324,57 @@ nlu:
     - sữa đõi số thành viên
     - sữa đõi số thành viên trong dây hụi
 
+- synonym: hốt hụi nhiều người cùng kỳ
+  examples: |
+    - hốt hụi nhiều người
+    - hốt hụi nhiều người chung kỳ
+    - hốt hụi nhiều người giống kỳ
+    - hốt hụi nhiều người chung một kỳ
+    - hốc hụi nhiều người
+    - hốc hụi nhiều người chung kỳ
+    - hốc hụi nhiều người giống kỳ
+    - hốc hụi nhiều người chung một kỳ
+    - lấy hụi nhiều người
+    - lấy hụi nhiều người chung kỳ
+    - lấy hụi nhiều người giống kỳ
+    - lấy hụi nhiều người chung một kỳ
+    - gom hụi nhiều người
+    - gom hụi nhiều người chung kỳ
+    - gom hụi nhiều người giống kỳ
+    - gom hụi nhiều người chung một kỳ
+    - gôm hụi nhiều người
+    - gôm hụi nhiều người chung kỳ
+    - gôm hụi nhiều người giống kỳ
+    - gôm hụi nhiều người chung một kỳ
+    - khui hụi nhiều người
+    - khui hụi nhiều người chung kỳ
+    - khui hụi nhiều người giống kỳ
+    - khui hụi nhiều người chung một kỳ
+    - hốt tiền hụi nhiều người
+    - hốt tiền hụi nhiều người chung kỳ
+    - hốt tiền hụi nhiều người giống kỳ
+    - hốt tiền hụi nhiều người chung một kỳ
+    - hốc tiền hụi nhiều người
+    - hốc tiền hụi nhiều người chung kỳ
+    - hốc tiền hụi nhiều người giống kỳ
+    - hốc tiền hụi nhiều người chung một kỳ
+    - tiền tiền hụi nhiều người
+    - tiền tiền hụi nhiều người chung kỳ
+    - tiền tiền hụi nhiều người giống kỳ
+    - tiền tiền hụi nhiều người chung một kỳ
+    - gom tiền hụi nhiều người
+    - gom tiền hụi nhiều người chung kỳ
+    - gom tiền hụi nhiều người giống kỳ
+    - gom tiền hụi nhiều người chung một kỳ
+    - gôm tiền hụi nhiều người
+    - gôm tiền hụi nhiều người chung kỳ
+    - gôm tiền hụi nhiều người giống kỳ
+    - gôm tiền hụi nhiều người chung một kỳ
+    - khui tiền hụi nhiều người
+    - khui tiền hụi nhiều người chung kỳ
+    - khui tiền hụi nhiều người giống kỳ
+    - khui tiền hụi nhiều người chung một kỳ
+
 - synonym: xóa tất toán hụi chết
   examples: |
     - xóa tất toán hụi đã chết
@@ -2199,12 +2395,83 @@ nlu:
     - xóa đi tất toán hụi đã chết
     - xóa đi tất toán dây hụi chết
     - xóa đi tất toán dây hụi đã chết
+    - kết thúc hoàn toàn hụi chết
+    - chấm dứt hụi chết
+    - thanh lý hụi chết
+    - đóng sổ hụi chết
+    - giải quyết xong hụi chết
+    - kết thúc hoàn toàn hụi đã chết
+    - chấm dứt hụi đã chết
+    - thanh lý hụi đã chết
+    - đóng sổ hụi đã chết
+    - giải quyết xong hụi đã chết
+    - kết thúc hoàn toàn quỹ hụi chết
+    - chấm dứt quỹ hụi chết
+    - thanh lý quỹ hụi chết
+    - đóng sổ quỹ hụi chết
+    - giải quyết xong quỹ hụi chết
+    - kết thúc hoàn toàn quỹ hụi đã chết
+    - chấm dứt quỹ hụi đã chết
+    - thanh lý quỹ hụi đã chết
+    - đóng sổ quỹ hụi đã chết
+    - giải quyết xong quỹ hụi đã chết
+    - kết thúc hoàn toàn dây quỹ hụi chết
+    - chấm dứt dây quỹ hụi chết
+    - thanh lý dây quỹ hụi chết
+    - đóng sổ dây quỹ hụi chết
+    - giải quyết xong dây quỹ hụi chết
+    - kết thúc hoàn toàn dây quỹ hụi đã chết
+    - chấm dứt dây quỹ hụi đã chết
+    - thanh lý dây quỹ hụi đã chết
+    - đóng sổ dây quỹ hụi đã chết
+    - giải quyết xong dây quỹ hụi đã chết
+    - chấm dứt nhóm quỹ hụi chết
+    - thanh lý nhóm quỹ hụi chết
+    - đóng sổ nhóm quỹ hụi chết
+    - giải quyết xong nhóm quỹ hụi chết
+    - kết thúc hoàn toàn nhóm quỹ hụi đã chết
+    - chấm dứt nhóm quỹ hụi đã chết
+    - thanh lý nhóm quỹ hụi đã chết
+    - đóng sổ nhóm quỹ hụi đã chết
+    - giải quyết xong nhóm quỹ hụi đã chết
 
 - synonym: tất toán hụi sống
   examples: |
     - tất toán dây hụi sống
     - tất toán hụi còn sống
     - tất toán dây còn hụi sống
+    - kết thúc hụi sống
+    - kết thúc hụi còn sống
+    - hoàn tất hụi còn hoạt động
+    - giải quyết xong hụi sống
+    - giải quyết xong hụi còn sống
+    - thanh lý hụi đang hoạt động
+    - đóng sổ hụi sống
+    - đóng sổ hụi còn sống
+    - kết thúc quỹ hụi sống
+    - kết thúc quỹ hụi còn sống
+    - hoàn tất quỹ hụi còn hoạt động
+    - giải quyết xong quỹ hụi sống
+    - giải quyết xong quỹ hụi còn sống
+    - thanh lý quỹ hụi đang hoạt động
+    - đóng sổ quỹ hụi sống
+    - đóng sổ quỹ hụi còn sống
+    - kết thúc dây quỹ hụi sống
+    - kết thúc dây quỹ hụi còn sống
+    - hoàn tất dây quỹ hụi còn hoạt động
+    - giải quyết xong dây quỹ hụi sống
+    - giải quyết xong dây quỹ hụi còn sống
+    - thanh lý dây quỹ hụi đang hoạt động
+    - đóng sổ dây quỹ hụi sống
+    - đóng sổ dây quỹ hụi còn sống
+    - kết thúc nhóm quỹ hụi sống
+    - kết thúc nhóm quỹ hụi còn sống
+    - hoàn tất nhóm quỹ hụi còn hoạt động
+    - giải quyết xong nhóm quỹ hụi sống
+    - giải quyết xong nhóm quỹ hụi còn sống
+    - thanh lý nhóm quỹ hụi đang hoạt động
+    - đóng sổ nhóm quỹ hụi sống
+    - đóng sổ nhóm quỹ hụi còn sống
 
 - synonym: tạo dây hụi góp
   examples: |
@@ -2224,6 +2491,130 @@ nlu:
     - tạo thêm hụi góp mới
     - mở thêm dây hụi góp mới
     - mở thêm hụi góp mới
+    - tổ chức hụi góp
+    - tổ chức thêm hụi góp
+    - tổ chức hụi góp mới
+    - tổ chức dây hụi góp
+    - tổ chức thêm dây hụi góp
+    - tổ chức dây hụi góp mới
+    - tổ chức quỹ hụi góp
+    - tổ chức thêm quỹ hụi góp
+    - tổ chức quỹ hụi góp mới
+    - tổ chức dây quỹ hụi góp
+    - tổ chức thêm dây quỹ hụi góp
+    - tổ chức dây quỹ hụi góp mới
+    - tổ chức nhóm hụi góp
+    - tổ chức thêm nhóm hụi góp
+    - tổ chức nhóm hụi góp mới
+    - tổ chức nhóm quỹ hụi góp
+    - tổ chức thêm nhóm quỹ hụi góp
+    - tổ chức nhóm quỹ hụi góp mới
+    - lập hụi góp
+    - lập thêm hụi góp
+    - lập hụi góp mới
+    - lập dây hụi góp
+    - lập thêm dây hụi góp
+    - lập dây hụi góp mới
+    - lập quỹ hụi góp
+    - lập thêm quỹ hụi góp
+    - lập quỹ hụi góp mới
+    - lập dây quỹ hụi góp
+    - lập thêm dây quỹ hụi góp
+    - lập dây quỹ hụi góp mới
+    - lập nhóm hụi góp
+    - lập thêm nhóm hụi góp
+    - lập nhóm hụi góp mới
+    - lập nhóm quỹ hụi góp
+    - lập thêm nhóm quỹ hụi góp
+    - lập nhóm quỹ hụi góp mới
+    - xây dựng hụi góp
+    - xây dựng thêm hụi góp
+    - xây dựng hụi góp mới
+    - xây dựng dây hụi góp
+    - xây dựng thêm dây hụi góp
+    - xây dựng dây hụi góp mới
+    - xây dựng quỹ hụi góp
+    - xây dựng thêm quỹ hụi góp
+    - xây dựng quỹ hụi góp mới
+    - xây dựng dây quỹ hụi góp
+    - xây dựng thêm dây quỹ hụi góp
+    - xây dựng dây quỹ hụi góp mới
+    - xây dựng nhóm hụi góp
+    - xây dựng thêm nhóm hụi góp
+    - xây dựng nhóm hụi góp mới
+    - xây dựng nhóm quỹ hụi góp
+    - xây dựng thêm nhóm quỹ hụi góp
+    - xây dựng nhóm quỹ hụi góp mới
+    - tạo hụi đóng góp
+    - thêm dây hụi đóng góp
+    - mở dây hụi đóng góp
+    - thêm hụi đóng góp
+    - mở hụi đóng góp
+    - tạo hụi đóng góp mới
+    - thêm dây hụi đóng góp mới
+    - mở dây hụi đóng góp mới
+    - thêm hụi đóng góp mới
+    - mở hụi đóng góp mới
+    - tạo thêm hụi đóng góp
+    - mở thêm dây hụi đóng góp
+    - mở thêm hụi đóng góp
+    - tạo thêm hụi đóng góp mới
+    - mở thêm dây hụi đóng góp mới
+    - mở thêm hụi đóng góp mới
+    - tổ chức hụi đóng góp
+    - tổ chức thêm hụi đóng góp
+    - tổ chức hụi đóng góp mới
+    - tổ chức dây hụi đóng góp
+    - tổ chức thêm dây hụi đóng góp
+    - tổ chức dây hụi đóng góp mới
+    - tổ chức quỹ hụi đóng góp
+    - tổ chức thêm quỹ hụi đóng góp
+    - tổ chức quỹ hụi đóng góp mới
+    - tổ chức dây quỹ hụi đóng góp
+    - tổ chức thêm dây quỹ hụi đóng góp
+    - tổ chức dây quỹ hụi đóng góp mới
+    - tổ chức nhóm hụi đóng góp
+    - tổ chức thêm nhóm hụi đóng góp
+    - tổ chức nhóm hụi đóng góp mới
+    - tổ chức nhóm quỹ hụi đóng góp
+    - tổ chức thêm nhóm quỹ hụi đóng góp
+    - tổ chức nhóm quỹ hụi đóng góp mới
+    - lập hụi đóng góp
+    - lập thêm hụi đóng góp
+    - lập hụi đóng góp mới
+    - lập dây hụi đóng góp
+    - lập thêm dây hụi đóng góp
+    - lập dây hụi đóng góp mới
+    - lập quỹ hụi đóng góp
+    - lập thêm quỹ hụi đóng góp
+    - lập quỹ hụi đóng góp mới
+    - lập dây quỹ hụi đóng góp
+    - lập thêm dây quỹ hụi đóng góp
+    - lập dây quỹ hụi đóng góp mới
+    - lập nhóm hụi đóng góp
+    - lập thêm nhóm hụi đóng góp
+    - lập nhóm hụi đóng góp mới
+    - lập nhóm quỹ hụi đóng góp
+    - lập thêm nhóm quỹ hụi đóng góp
+    - lập nhóm quỹ hụi đóng góp mới
+    - xây dựng hụi đóng góp
+    - xây dựng thêm hụi đóng góp
+    - xây dựng hụi đóng góp mới
+    - xây dựng dây hụi đóng góp
+    - xây dựng thêm dây hụi đóng góp
+    - xây dựng dây hụi đóng góp mới
+    - xây dựng quỹ hụi đóng góp
+    - xây dựng thêm quỹ hụi đóng góp
+    - xây dựng quỹ hụi đóng góp mới
+    - xây dựng dây quỹ hụi đóng góp
+    - xây dựng thêm dây quỹ hụi đóng góp
+    - xây dựng dây quỹ hụi đóng góp mới
+    - xây dựng nhóm hụi đóng góp
+    - xây dựng thêm nhóm hụi đóng góp
+    - xây dựng nhóm hụi đóng góp mới
+    - xây dựng nhóm quỹ hụi đóng góp
+    - xây dựng thêm nhóm quỹ hụi đóng góp
+    - xây dựng nhóm quỹ hụi đóng góp mới
 
 - synonym: mở dây hụi mãn trở lại đang hoạt động
   examples: |
@@ -2297,10 +2688,75 @@ nlu:
     - mãn lại dây hụi
     - mãn hụi
     - mãn lại hụi
-    - mản dây hụi
+    - mãn dây hụi
+    - mãn lại nhóm hụi
+    - mãn nhóm hụi
+    - mãn lại dây quỹ hụi
+    - mãn quỹ hụi
+    - mãn lại quỹ hụi
+    - mãn dây quỹ hụi
+    - mãn lại nhóm quỹ hụi
+    - mãn nhóm quỹ hụi
     - mản lại dây hụi
     - mản hụi
     - mản lại hụi
+    - mản dây hụi
+    - mản lại nhóm hụi
+    - mản nhóm hụi
+    - mản lại dây quỹ hụi
+    - mản quỹ hụi
+    - mản lại quỹ hụi
+    - mản dây quỹ hụi
+    - mản lại nhóm quỹ hụi
+    - mản nhóm quỹ hụi
+    - tạm dừng lại dây hụi
+    - tạm dừng hụi
+    - tạm dừng lại hụi
+    - tạm dừng dây hụi
+    - tạm dừng lại nhóm hụi
+    - tạm dừng nhóm hụi
+    - tạm dừng lại dây quỹ hụi
+    - tạm dừng quỹ hụi
+    - tạm dừng lại quỹ hụi
+    - tạm dừng dây quỹ hụi
+    - tạm dừng lại nhóm quỹ hụi
+    - tạm dừng nhóm quỹ hụi
+    - tạm đóng lại dây hụi
+    - tạm đóng hụi
+    - tạm đóng lại hụi
+    - tạm đóng dây hụi
+    - tạm đóng lại nhóm hụi
+    - tạm đóng nhóm hụi
+    - tạm đóng lại dây quỹ hụi
+    - tạm đóng quỹ hụi
+    - tạm đóng lại quỹ hụi
+    - tạm đóng dây quỹ hụi
+    - tạm đóng lại nhóm quỹ hụi
+    - tạm đóng nhóm quỹ hụi
+    - hoãn lại dây hụi
+    - hoãn hụi
+    - hoãn lại hụi
+    - hoãn dây hụi
+    - hoãn lại nhóm hụi
+    - hoãn nhóm hụi
+    - hoãn lại dây quỹ hụi
+    - hoãn quỹ hụi
+    - hoãn lại quỹ hụi
+    - hoãn dây quỹ hụi
+    - hoãn lại nhóm quỹ hụi
+    - hoãn nhóm quỹ hụi
+    - tạm hoãn lại dây hụi
+    - tạm hoãn hụi
+    - tạm hoãn lại hụi
+    - tạm hoãn dây hụi
+    - tạm hoãn lại nhóm hụi
+    - tạm hoãn nhóm hụi
+    - tạm hoãn lại dây quỹ hụi
+    - tạm hoãn quỹ hụi
+    - tạm hoãn lại quỹ hụi
+    - tạm hoãn dây quỹ hụi
+    - tạm hoãn lại nhóm quỹ hụi
+    - tạm hoãn nhóm quỹ hụi
 
 - synonym: xóa kỳ hốt
   examples: |
