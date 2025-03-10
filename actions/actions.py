@@ -31,6 +31,21 @@ ACTIONS_DATA = {
                    "<b>Bước 7:</b> Vuốt màng hình từ trái qua phải để quay về.",
         "link": "https://www.youtube.com/watch?v=Yn8LgiFjy3g"
     },
+    "tạo dây hụi": {
+        "name": "tạo dây hụi",
+        "details": "<b>Bước 1:</b> Anh/Chị hãy chọn vào mục <b>QUẢN LÝ HỤI</b>.<br><br>"
+                   "<b>Bước 2:</b> Bấm vào <b>Dấu + màu vàng</b> để thêm dây hụi mới.<br><br>"
+                   "<b>Bước 3:</b> Điền đầy đủ thông tin dây hụi: Mã số, số tiền dây hụi, số tiền đầu thảo, số phần (kỳ hốt),... Sau đó chọn vào ô <b>Hụi góp</b> và nhập <b>Số lần góp</b><br>"
+                   "(Lưu ý, Anh/Chị phải đặt mục <b>Khui hụi/lần</b> từ 2 ngày trở lên)<br>"
+                   "<list>"
+                   "<li>Phần mềm sẽ tính <b>tiền đóng chết</b> dựa vào <b>Tiền dây hụi</b> và <b>Số lân góp</b>.</li>"
+                   "<li><b>Tiền đóng sống</b> sẽ được tính dựa trên <b>Thăm kêu</b>.</li>"
+                   "<li>Nếu cho góp chân sống thì chọn vào ô <b>Hụi góp chân sống</b><br>.</li>"
+                   "</list>"
+                   "<b>Bước 4:</b> Nhập tên hui viên và điền vao số chân, sau đó bấm nút <b>Thêm</b> để thêm hụi viên.<br><br>"
+                   "<b>Bước 5:</b> Bấm nút <b>LƯU THÔNG TIN</b>, sau đó bấm <b>OK</b> để hoàn thành việc tạo dây hụi góp.",
+        "link": "https://www.youtube.com/shorts/rSyTlHMM_OA"
+    },
     "đóng hụi": {
         "name": "đóng hụi",
         "details": "<b>Bước 1:</b> Bấm vào mục <b>Hụi cần đóng trong ngày </b> <br><br>"
@@ -262,7 +277,7 @@ class ActionProvideGuide(Action):
                 video_link = ACTIONS_DATA[actions]["link"]
                 message = (f"Để <b>{ACTIONS_DATA[actions]['name']}</b>, Anh/Chị hãy làm theo các bước hướng dẫn sau:<br><hr>"
                            f"{ACTIONS_DATA[actions]['details']}<br><hr>"
-                           f"Hoặc Anh/Chị có thể xem video hướng dẫn sau để hiểu hơn <a href='{video_link}' target='_blank'>Xem Video</a>")
+                           f"Hoặc Anh/Chị có thể xem video hướng dẫn sau thì sẽ dễ hiểu hơn <a href='{video_link}' target='_blank'>Xem Video</a>")
                 dispatcher.utter_message(text=message)
         else:
             dispatcher.utter_message(
