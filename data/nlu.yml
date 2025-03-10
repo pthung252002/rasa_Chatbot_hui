@@ -2397,41 +2397,33 @@ nlu:
     - xóa đi tất toán dây hụi đã chết
     - kết thúc hoàn toàn hụi chết
     - chấm dứt hụi chết
-    - thanh lý hụi chết
     - đóng sổ hụi chết
     - giải quyết xong hụi chết
     - kết thúc hoàn toàn hụi đã chết
     - chấm dứt hụi đã chết
-    - thanh lý hụi đã chết
     - đóng sổ hụi đã chết
     - giải quyết xong hụi đã chết
     - kết thúc hoàn toàn quỹ hụi chết
     - chấm dứt quỹ hụi chết
-    - thanh lý quỹ hụi chết
     - đóng sổ quỹ hụi chết
     - giải quyết xong quỹ hụi chết
     - kết thúc hoàn toàn quỹ hụi đã chết
     - chấm dứt quỹ hụi đã chết
-    - thanh lý quỹ hụi đã chết
     - đóng sổ quỹ hụi đã chết
     - giải quyết xong quỹ hụi đã chết
     - kết thúc hoàn toàn dây quỹ hụi chết
     - chấm dứt dây quỹ hụi chết
-    - thanh lý dây quỹ hụi chết
     - đóng sổ dây quỹ hụi chết
     - giải quyết xong dây quỹ hụi chết
     - kết thúc hoàn toàn dây quỹ hụi đã chết
     - chấm dứt dây quỹ hụi đã chết
-    - thanh lý dây quỹ hụi đã chết
     - đóng sổ dây quỹ hụi đã chết
     - giải quyết xong dây quỹ hụi đã chết
     - chấm dứt nhóm quỹ hụi chết
-    - thanh lý nhóm quỹ hụi chết
     - đóng sổ nhóm quỹ hụi chết
     - giải quyết xong nhóm quỹ hụi chết
     - kết thúc hoàn toàn nhóm quỹ hụi đã chết
     - chấm dứt nhóm quỹ hụi đã chết
-    - thanh lý nhóm quỹ hụi đã chết
     - đóng sổ nhóm quỹ hụi đã chết
     - giải quyết xong nhóm quỹ hụi đã chết
 
@@ -3367,24 +3359,24 @@ nlu:
 
 - regex: ở đâu
   examples: |
-    cách (nằm ở đâu|ở chỗ nào|chỗ nào)
+    - cách (nằm ở đâu|ở chỗ nào|chỗ nào)
 
 - regex: cách
   examples: |
-    cách (để|thức|thức để)
+    - cách (để|thức|thức để)
 
 - regex: không
   examples: |
-    không (ko|0|khôg|khog|khg|kg|khong|kôg|kog)
+    - không (ko|0|khôg|khog|khg|kg|khong|kôg|kog)
 
 - regex: vậy
   examples: |
-    vậy (zậy|vâị|dị|dâị)
+    - vậy (zậy|vâị|dị|dâị)
 
 - regex: được
   examples: |
-    được (đc|dc|duoc)
+    - được (đc|dc|duoc)
 
 - regex: thành một
   examples: |
-    thành một (thành 1|về một|về 1)
+    - thành một (thành 1|về một|về 1)
