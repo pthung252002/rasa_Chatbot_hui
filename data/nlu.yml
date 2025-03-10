@@ -3366,19 +3366,25 @@ nlu:
     - điều chỉnh lại âm dương cho thành viên
 
 - regex: ở đâu
-  pattern: "cách (nằm ở đâu|ở chỗ nào|chỗ nào)"
+  examples: |
+    cách (nằm ở đâu|ở chỗ nào|chỗ nào)
 
 - regex: cách
-  pattern: "cách (để|thức|thức để)"
+  examples: |
+    cách (để|thức|thức để)
 
 - regex: không
-  pattern: "không (ko|0|khôg|khog|khg|kg|khong|kôg|kog)"
+  examples: |
+    không (ko|0|khôg|khog|khg|kg|khong|kôg|kog)
 
 - regex: vậy
-  pattern: "vậy (zậy|vâị|dị|dâị)"
+  examples: |
+    vậy (zậy|vâị|dị|dâị)
 
 - regex: được
-  pattern: "được (đc|dc|duoc)"
+  examples: |
+    được (đc|dc|duoc)
 
 - regex: thành một
-  pattern: "thành một (thành 1|về một|về 1)"
+  examples: |
+    thành một (thành 1|về một|về 1)
